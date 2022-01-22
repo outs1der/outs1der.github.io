@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Curriculum Vitæ - Duncan Galloway"
 permalink: /cv/ 
+---
 
 Curriculum Vitæ - Duncan Galloway
 =================================
