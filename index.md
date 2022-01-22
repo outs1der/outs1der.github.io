@@ -1,6 +1,6 @@
 {% include head.html %}
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
     <h2 class="date-header">{{ post.date | date: "%a %b %-d, %Y" }}</h2>
 
     <div class="post">
@@ -9,12 +9,11 @@
     <p>
     {{ post }}
     </p>
-    Labels: <a href="$url/$yr">$yr</a>, <a href="$url$path">$path</a>
+    Labels: <a href="link-to-year-collection">year</a>, <a href="link-to-category-collection">{{ post.category }}</a>
     </div>
 
     <p class="post-footer">
-      <em>posted at <a href="{{ post.url }}" title="permanent
-link">??</a></em>
+      <em>posted at <a href="{{ post.url }}" title="permanent link">{{ post.time }}<\a></em>
     </p>
 
     </div>
