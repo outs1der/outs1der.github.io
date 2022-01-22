@@ -8,8 +8,9 @@
     <div class="post-body">
     <p>
     {{ post }}
-    </p>
+    <p>
     Labels: <a href="link-to-year-collection">year</a>, <a href="link-to-category-collection">{{ post.category }}</a>
+    </p>
     </div>
 
     <p class="post-footer">
