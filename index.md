@@ -1,14 +1,23 @@
 {% include head.html %}
 
-This page is a work in progress; see http://users.monash.edu/~dgallow for the current version
-
-<ul class="myposts">
 {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <h2 class="date-header">{{ post.date | date: "%b %-d, %Y" }}</h2>
+
+    <div class="post">
+    <h3 class="post-title">{{ post.title}}</h3>
+    <div class="post-body">
+    <p>
     {{ post }}
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
+    </p>
+    Labels: <a href="$url/$yr">$yr</a>, <a href="$url$path">$path</a>
+    </div>
+
+    <p class="post-footer">
+      <em>posted at <a href="{{ post.url }}" title="permanent
+link">??</a></em>
+    </p>
+
+    </div>
 {% endfor %}
-</ul>
 
 {% include foot.html %}
