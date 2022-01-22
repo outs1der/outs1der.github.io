@@ -1,6 +1,5 @@
 ---
 title: Searching for X-ray pulsations from Sco X-1
-layout: default
 ---
 
   <!-- Begin .post -->

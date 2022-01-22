@@ -1,7 +1,7 @@
 {% include head.html %}
 
 {% for post in site.posts %}
-    <h2 class="date-header">{{ post.date | date: "%b %-d, %Y" }}</h2>
+    <h2 class="date-header">{{ post.date | date: "%a %b %-d, %Y" }}</h2>
 
     <div class="post">
     <h3 class="post-title">{{ post.title}}</h3>
