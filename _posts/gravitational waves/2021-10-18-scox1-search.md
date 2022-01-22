@@ -1,5 +1,6 @@
 ---
 title: Searching for X-ray pulsations from Sco X-1
+category: gravitational waves
 layout: null
 ---
 
