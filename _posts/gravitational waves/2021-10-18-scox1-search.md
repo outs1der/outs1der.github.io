@@ -22,6 +22,6 @@ observations with the <em>RXTE</em>/PCA, which complicates the data reduction.
 Unfortunately we found no strong evidence of pulsations, but we did derive
 the deepest limits on pulse amplitudes ever. The paper describing our results
 has now been accepted by MNRAS.
-</p>
-<p><em>Read the <a href="https://arxiv.org/abs/2105.13803">paper</a></em></p>
+
+<em>Read the <a href="https://arxiv.org/abs/2105.13803">paper</a></em>
 
