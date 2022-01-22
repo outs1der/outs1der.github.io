@@ -13,7 +13,7 @@
     </div>
 
     <p class="post-footer">
-      <em>posted at <a href="{{ post.url }}" title="permanent link">time<\a></em>
+      <em>posted at <a href="{{ post.url }}" title="permanent link">time</a></em>
     </p>
 
     </div>
