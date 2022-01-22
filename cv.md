@@ -2,8 +2,6 @@ layout: page
 title: "Curriculum Vitæ - Duncan Galloway"
 permalink: /cv/ 
 
-function unhide(divID) { var item = document.getElementById(divID); if (item) { item.className=(item.className=='hidden')?'unhidden':'hidden'; } } .hidden { display: none; } .unhidden { display: block; } .for-screen {display: block;} .for-print {display: none;} @media print { .for-screen {display: none;} .for-print {display: block;} } body { margin:0; padding:20px 20px; background:#000; color:#ddd; font:x-small "Trebuchet MS",Trebuchet,Verdana,Sans-Serif; font-size/\* \*/:/\*\*/small; font-size: /\*\*/small; } a:link { color:#9ad; text-decoration:none; } a:visited { color:#9ad; text-decoration:none; } a:hover { color:#ad9; text-decoration:underline; }
-
 Curriculum Vitæ - Duncan Galloway
 =================================
 
@@ -18,7 +16,7 @@ Victoria 3800, Australia
 **Mobile:** +61 (0)414 139-763
 
 **email:** Duncan.Galloway@monash.edu  
-**www:** [http://users.monash.edu.au/~dgallow](http://users.monash.edu.au/~dgallow)  
+**www:** [https://outs1der.github.io](https://outs1der.github.io)
 **ORCID:** [orcid.org/0000-0002-6558-5121](http://orcid.org/0000-0002-6558-5121)
 
 ![](images/separator.jpg)
