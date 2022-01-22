@@ -1,4 +1,8 @@
-Curriculum Vitæ - Duncan Galloway function unhide(divID) { var item = document.getElementById(divID); if (item) { item.className=(item.className=='hidden')?'unhidden':'hidden'; } } .hidden { display: none; } .unhidden { display: block; } .for-screen {display: block;} .for-print {display: none;} @media print { .for-screen {display: none;} .for-print {display: block;} } body { margin:0; padding:20px 20px; background:#000; color:#ddd; font:x-small "Trebuchet MS",Trebuchet,Verdana,Sans-Serif; font-size/\* \*/:/\*\*/small; font-size: /\*\*/small; } a:link { color:#9ad; text-decoration:none; } a:visited { color:#9ad; text-decoration:none; } a:hover { color:#ad9; text-decoration:underline; }
+layout: page
+title: "Curriculum Vitæ - Duncan Galloway"
+permalink: /cv/ 
+
+function unhide(divID) { var item = document.getElementById(divID); if (item) { item.className=(item.className=='hidden')?'unhidden':'hidden'; } } .hidden { display: none; } .unhidden { display: block; } .for-screen {display: block;} .for-print {display: none;} @media print { .for-screen {display: none;} .for-print {display: block;} } body { margin:0; padding:20px 20px; background:#000; color:#ddd; font:x-small "Trebuchet MS",Trebuchet,Verdana,Sans-Serif; font-size/\* \*/:/\*\*/small; font-size: /\*\*/small; } a:link { color:#9ad; text-decoration:none; } a:visited { color:#9ad; text-decoration:none; } a:hover { color:#ad9; text-decoration:underline; }
 
 Curriculum Vitæ - Duncan Galloway
 =================================
@@ -485,5 +489,5 @@ _1995—1997_
 
 * * *
 
-##### URL: http://users.monash.edu.au/~dgallow/cv.html  
-10th January 2022
+##### URL: http://outs1der.github.io/cv.html  
+21st January 2022
