@@ -1,2 +1,2 @@
-# outs1der.github.io
+# Duncan K Galloway
 Public-facing webpage
