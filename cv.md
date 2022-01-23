@@ -6,11 +6,10 @@ permalink: /cv/
 
 <center><H1>Curriculum Vit&aelig; - Duncan Galloway</H1></center>
 
-<div markdown="0">
 <table WIDTH="100%" BORDER="1" CELLPADDING="2" CELLSPACING="0">
   <TR>
     <TD COLSPAN="2">
-      <P ALIGN="CENTER"><B>Contact details:</B>
+      <P ALIGN="CENTER"><B>Contact details:</B></p>
     </TD>
   </TR>
   <TR VALIGN="TOP">
@@ -39,7 +38,6 @@ Victoria 3800, Australia
     </TD>
   </TR>
 </table>
-</div>
 
 <p><img src="images/separator.jpg" width=100%></p>
 
