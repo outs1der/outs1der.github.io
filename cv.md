@@ -14,7 +14,7 @@ title: "Curriculum Vitæ - Duncan Galloway"
   <TR VALIGN="TOP">
     <TD width="60%">
       <ADDRESS>
-  <a href="http://www.physics.monash.edu.au">School of Physics & Astronomy</a>
+  <a href="http://www.physics.monash.edu.au">School of Physics & Astronomy</a><br>
 <a href="http://www.monash.edu.au">Monash University</a><br>
 Victoria 3800, Australia
       </ADDRESS>
