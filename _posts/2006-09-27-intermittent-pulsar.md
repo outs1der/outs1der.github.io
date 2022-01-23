@@ -4,7 +4,8 @@ category: pulsars
 layout: null
 time: 04:29
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- created by convert.pl on Mon Jan 30 23:40:59 EST 2012 -->
 <!-- converted from ../2006/09/intermittent-pulsations-in-hetej19001.html -->
 <!-- Post timestamp Wednesday, September 27, 2006 12:29 PM -->

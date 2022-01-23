@@ -4,7 +4,8 @@ category: meetings
 layout: null
 time: 04:53
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!-- Thursday, April 08, 2010 12:53PM-->
       <img src="images/3d background - database structure.jpg" width="100" align="left">Yesterday
 <a href="http://www.atnf.csiro.au/people/George.Hobbs/">George Hobbs</a> from ATNF

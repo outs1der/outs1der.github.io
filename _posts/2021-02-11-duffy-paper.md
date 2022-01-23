@@ -4,7 +4,8 @@ category: white dwarf
 layout: null
 time: 06:49
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/duffy21.png" width="100" align="left">
 So-called AM CVn systems are the cataclysmic variables (CVs) with the shortest
 orbital periods, down to as short as 5 minutes. CVs in turn are binary systems

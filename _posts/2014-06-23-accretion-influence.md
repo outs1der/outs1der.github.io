@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 02:53
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/kajava_fig4.jpg" width="100" align="left">
 One of the interesting outcomes of our 
 <a href="http://www.issibern.ch/teams/thermo_burst">ISSI international team

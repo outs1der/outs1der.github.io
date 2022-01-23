@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 07:45
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!-- Monday, June 14, 2010 3:45 PM-->
   <!---- Begin .post ---->
 <img src="images/boiling.jpeg" width="127" align="left">

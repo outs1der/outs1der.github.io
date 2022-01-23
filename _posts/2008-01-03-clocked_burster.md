@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 06:39
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- created by convert.pl on Mon Jan 30 02:51:52 EST 2012 -->
 <!-- converted from ../2008/01/clocked-burster-is-running-fast.html -->
 <!-- Post timestamp Thursday, January 03, 2008 4:39 PM -->

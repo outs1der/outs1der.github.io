@@ -4,7 +4,8 @@ category: postgrads
 layout: null
 time: 02:07
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/rapid_burster.jpg" width="100" align="left">
 The Rapid Burster is a neutron-star binary that exhibits singular behaviour;
 extremely frequent "type-II" X-ray bursts, which cannot be thermonuclear in

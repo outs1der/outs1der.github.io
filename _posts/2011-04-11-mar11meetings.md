@@ -4,7 +4,8 @@ category: meetings
 layout: null
 time: 08:03
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!---- Begin .post ---->
 <a href="http://www.mpe.mpg.de/gamma/science/lines/workshops/AwR_2011_Proceedings.html"><img src="http://www.mpe.mpg.de/gamma/science/lines/workshops/AwR2011/AwR7Fotos/images/img_2993.jpg" width="100" align="left"></a>
 Had a very busy few months early in 2011, including quite a few meetings.

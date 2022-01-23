@@ -4,7 +4,8 @@ category: press
 layout: null
 time: 16:00
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- added retroactively 2015 Jul 3 -->
 <a href="http://phys.org/news/2014-06-gravitational.html"><img src="http://cdn.phys.org/newman/csz/news/800/2014/catchingagra.jpg" width="100" align="left"></a>
 Gravitational waves are incredibly feeble, and it doesn't help when the

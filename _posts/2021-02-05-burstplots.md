@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/burstplot.png" width="100" align="left">
 The <a href="http://burst.sci.monash.edu">web interface</a> to the MINBAR
 burst sample is the result of a collaboration with the 

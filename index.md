@@ -6,7 +6,6 @@
     <div class="post">
     <h3 class="post-title">{{ post.title}}</h3>
     <div class="post-body">
-    <p>
     {{ post }}
     <p>
     Labels: <a href="link-to-year-collection">{{post.date | date: "%Y" }}</a>, <a href="link-to-category-collection">{{ post.category }}</a>

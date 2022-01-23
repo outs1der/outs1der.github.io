@@ -4,7 +4,8 @@ category: meetings
 layout: null
 time: 19:02
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!---- Begin .post ---->
 <img src="images/esac_meeting_2015_attendees.jpg" width="100" align="left"></a>
 This June the terrific people at ESAC hosted a 3-day

@@ -4,7 +4,8 @@ category: reference
 layout: null
 time: 19:44
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- created by convert.pl on Tue Jan 31 00:24:43 EST 2012 -->
 <!-- converted from ../2005/05/compact-stellar-x-ray-sources.html -->
 <!-- Post timestamp Friday, May 06, 2005 3:44 AM -->

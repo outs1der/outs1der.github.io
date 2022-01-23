@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 04:00
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <a href="images/fig2.png""><img src="images/fig2.png" width="100" align="left"></a>
 </p>
 <p>Many burst sources exhibit inexplicable decreases in burst rate even as the 

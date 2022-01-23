@@ -4,7 +4,8 @@ category: pulsars
 layout: null
 time: 08:56
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!-- Wednesday, June 23, 2010 4:56 PM-->
   <!---- Begin .post ---->
 <img src="images/09ss_finish.jpg" width="100" align="left">

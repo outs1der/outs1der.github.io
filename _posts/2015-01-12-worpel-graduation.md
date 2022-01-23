@@ -4,7 +4,8 @@ category: postgrads
 layout: null
 time: 03:35
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/hauke_mugshot.gif" width="100" align="left">
 I am proud and pleased to report 
 Since the 1970s the standard approach for analysing the X-ray spectrum emitted

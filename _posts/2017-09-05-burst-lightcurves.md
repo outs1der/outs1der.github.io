@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 08:07
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/power_law_index.jpg" width="100" align="left">
 When the upper layer of an accreting neutron star experiences a thermonuclear
 runaway of helium and hydrogen, it exhibits an X-ray burst with a

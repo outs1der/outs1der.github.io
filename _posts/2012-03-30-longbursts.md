@@ -4,7 +4,8 @@ category: neutron star EOS
 layout: null
 time: 13:18
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
   <!---- Begin .post ---->
 <img src="images/longbursts12.jpg" width="100" height="100" align="left">
 Regular, mixed H/He thermonuclear bursts have long served as valuable comparisons for

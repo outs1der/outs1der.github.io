@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/burstosc.jpg" width="100" align="left">
 Some thermonuclear burst sources exhibit temporary "burst oscillations", 
 periodic variations in the X-ray intensity at frequencies characteristic

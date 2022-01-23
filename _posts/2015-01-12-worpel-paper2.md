@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 03:44
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/burstzoom.gif" width="100" align="left">
 In a study of several hundred "photospheric radius-expansion" bursts observed by the 
 <a href="http://heasarc.gsfc.nasa.gov/docs/xte/"><em>Rossi X-ray Timing Explorer</a></em>, Monash PhD student

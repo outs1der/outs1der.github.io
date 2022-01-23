@@ -4,7 +4,8 @@ category: postgrads
 layout: null
 time: 05:33
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/hauke_mugshot.jpg" width="100" align="left">
 I am proud and pleased to report 
 the award of 

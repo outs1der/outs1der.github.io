@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 23:58
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/20071205_slow_sign2_3.jpg" width="100" align="left">
 The Rapid Burster is unique for its so-called type-II X-ray bursts, during
 which the X-ray intensity brightens dramatically, and which can recur as often

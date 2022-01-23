@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 03:41
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <img src="images/burst_rate.jpeg" width="100" align="left">
 It's been a long-standing mystery, how for some burst sources, the burst rate 
 <em>decreases</em> even as the accretion rate <em>increases</em>. Theory

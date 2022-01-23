@@ -4,7 +4,8 @@ category: thermonuclear bursts
 layout: null
 time: 05:08
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- created by convert.pl on Mon Jan 30 23:09:41 EST 2012 -->
 <!-- converted from ../2007/11/model-lightcurves-for-bursts-from-gs.html -->
 <!-- Post timestamp Friday, November 09, 2007 3:08 PM -->

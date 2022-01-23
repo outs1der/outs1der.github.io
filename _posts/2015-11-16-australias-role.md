@@ -4,7 +4,8 @@ category: gravitational waves
 layout: null
 time: 05:02
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
       <img src="images/daily_mail_gw.jpg" width="100" align="left">
 The first observations by a worldwide network of advanced interferometric
 gravitational wave detectors offer a unique opportunity for the astronomical

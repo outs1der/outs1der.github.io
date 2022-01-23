@@ -4,7 +4,8 @@ category: spectroscopy
 layout: null
 time: 21:19
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
 <!-- created by convert.pl on Mon Jan 30 23:12:13 EST 2012 -->
 <!-- converted from ../2007/09/variable-warm-absorber-in-circinus-x-1.html -->
 <!-- Post timestamp Tuesday, September 25, 2007 5:19 AM -->

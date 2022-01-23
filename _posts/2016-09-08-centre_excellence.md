@@ -4,7 +4,8 @@ category: gravitational waves
 layout: null
 time: 02:33
 ---
-<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
+<!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
+<p>
       <img src="images/uluru_ligo.jpg" width="100" align="left">
 The <a href="http://arc.gov.au">Australian Research Council</a> announced
 this morning the outcomes of the 
