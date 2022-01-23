@@ -18,7 +18,6 @@ permalink: /cv/
   <a href="http://www.physics.monash.edu.au">School of Physics & Astronomy</a>
 <a href="http://www.monash.edu.au">Monash University</a><br>
 Victoria 3800, Australia
-
       </ADDRESS>
     </TD>
     <TD width="40%" align="right">
@@ -28,19 +27,21 @@ Victoria 3800, Australia
 <b>Mobile:</b> +61 (0)414 139-763<br>
 <b>Mobile:</b> +31 (0)6 86490075
 
-     </ADDRESS>
-    </td></tr>
-    <tr><td colspan="2" align="center">
+      </ADDRESS>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <ADDRESS>
-<b>email:</b> Duncan.Galloway@monash.edu<br>
+<b>email:</b> duncan.dalloway@monash.edu, duncan.galloway@igdore.org<br>
 <b>www:</b> <a href="https://outs1der.github.io">https://outs1der.github.io</a><br>
 <b>ORCID:</b> <a href="http://orcid.org/0000-0002-6558-5121">orcid.org/0000-0002-6558-5121</a>
-     </ADDRESS>
+      </ADDRESS>
     </TD>
   </TR>
 </table>
 
-<p><img src="images/separator.jpg" width=100%></p>
+<p><img src="images/separator.jpg" width="100%"></p>
 
 EDUCATION
 ---------
@@ -68,16 +69,11 @@ EMPLOYMENT
 *   **Associate professor**, Monash University, 2018—present
 *   **Senior lecturer**, Monash University, 2013—2017
 *   **[ARC Future Fellow](http://www.arc.gov.au/future-fellowships)**, Monash University, 2009—2013  
-    
 *   **Monash Fellow**, Monash University, 2007—2009  
-    
 *   **Centenary Fellow**, [University of Melbourne](http://physics.unimelb.edu.au), 2005—2007  
-    
 *   **Postdoctoral Associate**, [Kavli Institute for Astrophysics and Space Research](http://space.mit.edu), [MIT](http://mit.edu) 2004—2005  
-    
 *   **Postdoctoral Associate**, Center for Space Research, MIT 2000—2003  
-    Advisor: A/Prof. Deepto Chakrabarty  
-    
+    Advisor: A/Prof. Deepto Chakrabarty      
 *   **PhD in X-ray astronomy**, [University of Tasmania](http://www.utas.edu.au/maths-physics) 1996—2000  
     Thesis title: [Spectrum and Pulse Profile Formation in Strong-Field X-ray Pulsars.](thesis.html)  
     Supervisors: Dr. John Greenhill ([University of Tasmania](http://www.utas.edu.au)) and Dr. Kinwah Wu (now at [MSSL](http://www.ucl.ac.uk/mssl), [University College London](http://www.ucl.ac.uk))
@@ -177,11 +173,11 @@ Total of 108 publications in astrophysics (excluding [conference proceedings](co
 *   Mullaney, J. R., Makrygianni, L., Dhillon, V., Littlefair, S, for the GOTO collaboration including Galloway, D. K. (2021). **Processing GOTO data with the Rubin Observatory LSST Science Pipelines I: Production of coadded frames.** PASA 38, e004  
     \[ [PASA](https://doi.org/10.1017/pasa.2020.45) | [ADS](https://ui.adsabs.harvard.edu/abs/2021PASA...38....4M) | [arXiv:2010.15142](https://arxiv.org/abs/2010.15142) \]
     
-<p><img src="images/separator.jpg" width=100%></p>
+<p><img src="images/separator.jpg" width="100%"></p>
 
-[<< Home](index.html)
+[<< Home](http://outs1der.github.io)
 
 * * *
 
 ##### URL: http://outs1der.github.io/cv.html  
-22nd January 2022
+##### 22nd January 2022
