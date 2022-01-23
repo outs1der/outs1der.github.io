@@ -29,7 +29,8 @@ Victoria 3800, Australia
 <b>Mobile:</b> +31 (0)6 86490075
 
      </ADDRESS>
-</tr><tr><td colspan="2" align="center">
+    </td></tr>
+    <tr><td colspan="2" align="center">
       <ADDRESS>
 <b>email:</b> Duncan.Galloway@monash.edu<br>
 <b>www:</b> <a href="https://outs1der.github.io">https://outs1der.github.io</a><br>
