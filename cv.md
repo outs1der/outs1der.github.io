@@ -6,32 +6,31 @@ permalink: /cv/
 
 <center><H1>Curriculum Vit&aelig; - Duncan Galloway</H1></center>
 
-<p>
-<table><!--  WIDTH=100% BORDER=1 CELLPADDING=2 CELLSPACING=0 -->
+<div markdown="0">
+<table WIDTH="100%" BORDER="1" CELLPADDING="2" CELLSPACING="0">
   <TR>
-    <TD COLSPAN=2>
-      <P ALIGN=CENTER><B>Contact details:</B>
+    <TD COLSPAN="2">
+      <P ALIGN="CENTER"><B>Contact details:</B>
     </TD>
   </TR>
-  <TR VALIGN=TOP>
-    <TD width=60%>
+  <TR VALIGN="TOP">
+    <TD width="60%">
       <ADDRESS>
   <a href="http://www.physics.monash.edu.au">School of Physics & Astronomy</a>
-  <! School of Mathematical Sciences; no longer ><br>
 <a href="http://www.monash.edu.au">Monash University</a><br>
 Victoria 3800, Australia
 
       </ADDRESS>
     </TD>
-    <TD width=40% align=right>
+    <TD width="40%" align="right">
       <ADDRESS>
-<b>Tel:</b> +61 (0)3 9905-4422<br> <! was 9902-0393 in Physics >
+<b>Tel:</b> +61 (0)3 9905-4422<br>
 <!-- Fax:</b> +61 (0)3 9905-3637 -->
 <b>Mobile:</b> +61 (0)414 139-763<br>
 <b>Mobile:</b> +31 (0)6 86490075
 
      </ADDRESS>
-</tr><tr><td colspan=2 align=center>
+</tr><tr><td colspan="2" align="center">
       <ADDRESS>
 <b>email:</b> Duncan.Galloway@monash.edu<br>
 <b>www:</b> <a href="https://outs1der.github.io">https://outs1der.github.io</a><br>
@@ -40,7 +39,7 @@ Victoria 3800, Australia
     </TD>
   </TR>
 </table>
-</p>
+</div>
 
 <p><img src="images/separator.jpg" width=100%></p>
 
