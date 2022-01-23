@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Curriculum Vitæ - Duncan Galloway"
-permalink: /cv/ 
 ---
 
 <center><H1>Curriculum Vit&aelig; - Duncan Galloway</H1></center>
