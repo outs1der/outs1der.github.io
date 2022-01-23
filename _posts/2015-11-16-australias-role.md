@@ -1,5 +1,5 @@
 ---
-title: Hunting Gravitational Waves with Multi-Messenger Counterparts: Australia's Role
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 05:02

@@ -1,5 +1,5 @@
 ---
-title: Puzzling behaviour in IGR&nbsp;J17473-2721
+title: "${title}"
 category: transients
 layout: null
 time: 07:43

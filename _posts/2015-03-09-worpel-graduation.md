@@ -1,5 +1,5 @@
 ---
-title: Hauke's thesis accepted; postdoctoral position
+title: "${title}"
 category: postgrads
 layout: null
 time: 05:33

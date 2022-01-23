@@ -1,5 +1,5 @@
 ---
-title: Thermonuclear bursts observed by RXTE
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 15:51

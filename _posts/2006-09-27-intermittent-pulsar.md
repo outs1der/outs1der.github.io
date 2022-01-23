@@ -1,5 +1,5 @@
 ---
-title: Intermittent pulsations in HETE&nbsp;J1900.1-2455
+title: "${title}"
 category: pulsars
 layout: null
 time: 04:29

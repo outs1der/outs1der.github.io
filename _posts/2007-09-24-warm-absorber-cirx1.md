@@ -1,5 +1,5 @@
 ---
-title: The Variable Warm Absorber in Circinus X-1
+title: "${title}"
 category: spectroscopy
 layout: null
 time: 21:19

@@ -1,5 +1,5 @@
 ---
-title: 40 years of X-ray bursts: Extreme explosions in dense environments
+title: "${title}"
 category: meetings
 layout: null
 time: 19:02

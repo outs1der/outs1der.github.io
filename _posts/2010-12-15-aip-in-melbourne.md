@@ -1,5 +1,5 @@
 ---
-title: AIP congress 2010
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 03:52

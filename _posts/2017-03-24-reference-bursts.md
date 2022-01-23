@@ -1,5 +1,5 @@
 ---
-title: Reference bursts for model comparisons
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 02:16

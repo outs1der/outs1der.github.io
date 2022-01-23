@@ -1,5 +1,5 @@
 ---
-title: Influence of accretion geometry on bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 02:53

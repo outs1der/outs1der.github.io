@@ -1,5 +1,5 @@
 ---
-title: Compact Stellar X-ray Sources
+title: "${title}"
 category: reference
 layout: null
 time: 19:44

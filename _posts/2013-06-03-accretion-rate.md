@@ -1,5 +1,5 @@
 ---
-title: Varying accretion rate during bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 03:19

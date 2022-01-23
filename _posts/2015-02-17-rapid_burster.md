@@ -1,5 +1,5 @@
 ---
-title: The remarkable <em>RXTE</em> observations of the Rapid Burster
+title: "${title}"
 category: postgrads
 layout: null
 time: 02:07

@@ -1,5 +1,5 @@
 ---
-title: Simulating X-ray bursts during a transient accretion event
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 02:00

@@ -1,5 +1,5 @@
 ---
-title: Astronomical databases
+title: "${title}"
 category: meetings
 layout: null
 time: 04:53

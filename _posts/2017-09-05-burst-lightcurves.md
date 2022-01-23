@@ -1,5 +1,5 @@
 ---
-title: Analysing the cooling tails of thermonuclear bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 08:07

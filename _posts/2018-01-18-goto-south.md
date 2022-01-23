@@ -1,5 +1,5 @@
 ---
-title: Surveying candidate sites for GOTO-South
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 02:00

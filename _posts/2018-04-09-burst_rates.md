@@ -1,5 +1,5 @@
 ---
-title: The influence of stellar spin on thermonuclear runaways
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 04:00

@@ -1,5 +1,5 @@
 ---
-title: Outburst behaviour in short period AM CVn systems
+title: "${title}"
 category: white dwarf
 layout: null
 time: 06:49

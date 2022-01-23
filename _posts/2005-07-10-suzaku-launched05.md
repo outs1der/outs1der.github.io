@@ -1,5 +1,5 @@
 ---
-title: Suzaku (aka ASTRO-EII) launched
+title: "${title}"
 category: missions
 layout: null
 time: 16:18

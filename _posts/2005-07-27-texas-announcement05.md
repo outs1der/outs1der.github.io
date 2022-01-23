@@ -1,5 +1,5 @@
 ---
-title: Texas in Australia 2006
+title: "${title}"
 category: meetings
 layout: null
 time: 13:54

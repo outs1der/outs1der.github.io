@@ -1,5 +1,5 @@
 ---
-title: Model lightcurves for bursts from GS 1826-24
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 05:08

@@ -1,5 +1,5 @@
 ---
-title: July is meeting month
+title: "${title}"
 category: meetings
 layout: null
 time: 04:21

@@ -1,5 +1,5 @@
 ---
-title: Cracking the code of burst rates
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 03:41

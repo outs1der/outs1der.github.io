@@ -1,5 +1,5 @@
 ---
-title: Going, going, almost gone
+title: "${title}"
 category: pulsars
 layout: null
 time: 07:05

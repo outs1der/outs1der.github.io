@@ -1,5 +1,5 @@
 ---
-title: SINS summer school
+title: "${title}"
 category: meetings
 layout: null
 time: 07:19

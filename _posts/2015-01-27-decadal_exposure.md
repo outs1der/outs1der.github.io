@@ -1,5 +1,5 @@
 ---
-title: Astronomy Decadal Plan 2016&mdash;25 exposure draft
+title: "${title}"
 category: meetings
 layout: null
 time: 02:18

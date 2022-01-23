@@ -1,5 +1,5 @@
 ---
-title: The last outburst of a millisecond pulsar?
+title: "${title}"
 category: pulsars
 layout: null
 time: 21:09

@@ -1,5 +1,5 @@
 ---
-title: The Clocked Burster is running fast
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 06:39

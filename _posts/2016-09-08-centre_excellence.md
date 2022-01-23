@@ -1,5 +1,5 @@
 ---
-title: ARC Centre of Excellence for Gravitational Wave Discovery approved
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 02:33

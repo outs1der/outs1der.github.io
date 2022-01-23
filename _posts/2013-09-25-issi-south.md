@@ -1,5 +1,5 @@
 ---
-title: Second meeting of new ISSI burst team @ Monash
+title: "${title}"
 category: meetings
 layout: null
 time: 13:37

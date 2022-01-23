@@ -1,5 +1,5 @@
 ---
-title: A plethora of pulsars
+title: "${title}"
 category: pulsars
 layout: null
 time: 03:11

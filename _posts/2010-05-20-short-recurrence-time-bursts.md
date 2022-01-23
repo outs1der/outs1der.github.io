@@ -1,5 +1,5 @@
 ---
-title: Short recurrence time bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 03:30

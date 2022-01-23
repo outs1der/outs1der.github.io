@@ -1,5 +1,5 @@
 ---
-title: Brains Matter interview
+title: "${title}"
 category: outreach
 layout: null
 time: 14:01

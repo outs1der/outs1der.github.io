@@ -1,5 +1,5 @@
 ---
-title: Explainer: what is a neutron star? | The Conversation
+title: "${title}"
 category: outreach
 layout: null
 time: 07:47

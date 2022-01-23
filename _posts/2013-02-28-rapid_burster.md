@@ -1,5 +1,5 @@
 ---
-title: Slow rotation in the Rapid Burster?
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 23:58

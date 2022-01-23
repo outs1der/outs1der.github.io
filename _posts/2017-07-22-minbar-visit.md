@@ -1,5 +1,5 @@
 ---
-title: MINBAR meetings lead to new burst source
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 04:00

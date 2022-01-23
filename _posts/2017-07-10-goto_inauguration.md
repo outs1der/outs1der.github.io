@@ -1,5 +1,5 @@
 ---
-title: GOTO La Palma site inauguration
+title: "${title}"
 category: press
 layout: null
 time: 04:00

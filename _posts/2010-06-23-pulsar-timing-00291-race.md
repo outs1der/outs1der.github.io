@@ -1,5 +1,5 @@
 ---
-title: Timing the pulsar in IGR J00291+5934: the race is on!
+title: "${title}"
 category: pulsars
 layout: null
 time: 08:56

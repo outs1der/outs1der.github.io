@@ -1,5 +1,5 @@
 ---
-title: Thermonuclear bursts in the spotlight
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 02:00

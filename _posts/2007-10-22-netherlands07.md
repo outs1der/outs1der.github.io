@@ -1,5 +1,5 @@
 ---
-title: Netherlands visit
+title: "${title}"
 category: visits
 layout: null
 time: 04:13

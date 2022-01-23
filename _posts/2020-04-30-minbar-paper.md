@@ -1,5 +1,5 @@
 ---
-title: MINBAR paper accepted!
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 07:10

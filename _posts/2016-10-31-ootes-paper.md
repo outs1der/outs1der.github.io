@@ -1,5 +1,5 @@
 ---
-title: Understanding burst oscillations
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 02:00

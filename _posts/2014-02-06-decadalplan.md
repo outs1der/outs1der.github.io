@@ -1,5 +1,5 @@
 ---
-title: Australian Astronomy Decadal Plan 2016&mdash;25
+title: "${title}"
 category: meetings
 layout: null
 time: 04:58

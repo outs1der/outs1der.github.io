@@ -1,5 +1,5 @@
 ---
-title: Measuring neutrino losses in thermonuclear bursts
+title: "${title}"
 category: postgrads
 layout: null
 time: 02:00

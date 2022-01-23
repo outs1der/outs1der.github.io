@@ -1,5 +1,5 @@
 ---
-title: Gravitational waves may set speed limit for pulsar spin
+title: "${title}"
 category: press
 layout: null
 time: 05:59

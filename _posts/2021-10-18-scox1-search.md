@@ -1,5 +1,5 @@
 ---
-title: Searching for X-ray pulsations from Sco X-1
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 03:00

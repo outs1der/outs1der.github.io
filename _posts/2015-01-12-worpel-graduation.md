@@ -1,5 +1,5 @@
 ---
-title: Hauke's second thesis paper and postdoctoral position
+title: "${title}"
 category: postgrads
 layout: null
 time: 03:35

@@ -1,5 +1,5 @@
 ---
-title: March meetings
+title: "${title}"
 category: meetings
 layout: null
 time: 08:03

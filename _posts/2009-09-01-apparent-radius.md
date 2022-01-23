@@ -1,5 +1,5 @@
 ---
-title: The apparent neutron-star radius during bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 04:31

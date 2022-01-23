@@ -1,5 +1,5 @@
 ---
-title: Catching a gravitational wave
+title: "${title}"
 category: press
 layout: null
 time: 16:00

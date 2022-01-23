@@ -1,5 +1,5 @@
 ---
-title: First detection of gravitational waves
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 17:31

@@ -1,5 +1,5 @@
 ---
-title: HEAT is... well, hot
+title: "${title}"
 category: meetings
 layout: null
 time: 07:43

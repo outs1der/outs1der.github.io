@@ -1,5 +1,5 @@
 ---
-title: HETE J1900.1-2455 is returning to quiescence
+title: "${title}"
 category: pulsars
 layout: null
 time: 05:08

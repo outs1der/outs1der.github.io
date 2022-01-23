@@ -1,5 +1,5 @@
 ---
-title: Burst catalog paper accepted
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 03:13

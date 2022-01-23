@@ -1,5 +1,5 @@
 ---
-title: Seeking postdoctoral associates in gravitational wave astronomy
+title: "${title}"
 category: opportunities
 layout: null
 time: 01:31

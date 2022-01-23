@@ -1,5 +1,5 @@
 ---
-title: Ignition depth for 4U 1728-34 bursts
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 07:45

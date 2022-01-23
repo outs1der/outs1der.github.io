@@ -1,5 +1,5 @@
 ---
-title: Double vision
+title: "${title}"
 category: thermonuclear bursts
 layout: null
 time: 14:00

@@ -1,5 +1,5 @@
 ---
-title: NASA Astronomers Find Bizarre Planet-Mass Object Orbiting Neutron Star
+title: "${title}"
 category: pulsars
 layout: null
 time: 09:49

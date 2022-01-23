@@ -1,5 +1,5 @@
 ---
-title: Tuning up for Gravitational Wave Discoveries
+title: "${title}"
 category: gravitational waves
 layout: null
 time: 02:15

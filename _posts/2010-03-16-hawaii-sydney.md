@@ -1,5 +1,5 @@
 ---
-title: Hawaii - Sydney
+title: "${title}"
 category: meetings
 layout: null
 time: 00:43

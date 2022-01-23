@@ -1,5 +1,5 @@
 ---
-title: Shakya's thesis accepted
+title: "${title}"
 category: postgrads
 layout: null
 time: 03:34

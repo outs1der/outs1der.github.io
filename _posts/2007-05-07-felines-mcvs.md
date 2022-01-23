@@ -1,5 +1,5 @@
 ---
-title: Fe K&alpha; Lines in MCVs
+title: "${title}"
 category: spectroscopy
 layout: null
 time: 07:13
