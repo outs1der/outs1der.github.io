@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "AIP congress 2010"
 category: gravitational waves
 layout: null
 time: 03:52
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Wednesday, Dec 15, 2010 1:52 PM-->
   <!---- Begin .post ---->
 <img src="images/aiplogo.jpg" width="100" align="left">

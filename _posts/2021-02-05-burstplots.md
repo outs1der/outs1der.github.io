@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "MINBAR burst interface visualisation"
 category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/burstplot.png" width="100" align="left">
 The <a href="http://burst.sci.monash.edu">web interface</a> to the MINBAR
 burst sample is the result of a collaboration with the 

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Second meeting of new ISSI burst team @ Monash"
 category: meetings
 layout: null
 time: 13:37
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <img src="images/issi-south.jpg" width="100" align="left"></a>
 Our 

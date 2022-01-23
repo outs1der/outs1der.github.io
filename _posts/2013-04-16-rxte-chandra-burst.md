@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Double vision"
 category: thermonuclear bursts
 layout: null
 time: 14:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/1808burst.gif" width="100" align="left">
 Back in November 2011, the 401-Hz millisecond pulsar SAX&nbsp;J1808.4-3658
 went into another of it's regular (every ~3 yr) outbursts. 

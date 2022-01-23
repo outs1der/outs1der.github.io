@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Astronomy Decadal Plan 2016&mdash;25 exposure draft"
 category: meetings
 layout: null
 time: 02:18
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <img src="images/road_sign.jpg" width="100" align="left"></a>
 The NCA has completed and released the first draft of Australian Astronomy's

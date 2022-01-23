@@ -1,10 +1,10 @@
 ---
-title: Long bursts and the neutron star EOS
+title: "Long bursts and the neutron star EOS"
 category: neutron star EOS
 layout: null
 time: 13:18
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <img src="images/longbursts12.jpg" width="100" height="100" align="left">
 Regular, mixed H/He thermonuclear bursts have long served as valuable comparisons for

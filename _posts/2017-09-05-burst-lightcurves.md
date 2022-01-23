@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Analysing the cooling tails of thermonuclear bursts"
 category: thermonuclear bursts
 layout: null
 time: 08:07
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/power_law_index.jpg" width="100" align="left">
 When the upper layer of an accreting neutron star experiences a thermonuclear
 runaway of helium and hydrogen, it exhibits an X-ray burst with a

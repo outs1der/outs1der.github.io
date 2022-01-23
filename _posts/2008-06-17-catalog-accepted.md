@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Burst catalog paper accepted"
 category: thermonuclear bursts
 layout: null
 time: 03:13
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 02:48:25 EST 2012 -->
 <!-- converted from ../2008/06/burst-catalog-paper-accepted.html -->
 <!-- Post timestamp Tuesday, June 17, 2008 11:13 AM -->

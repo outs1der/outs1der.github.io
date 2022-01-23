@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Shakya's thesis accepted"
 category: postgrads
 layout: null
 time: 03:34
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/article_Graduation_051412.jpg" width="100" align="left">
 I am pleased and proud to report that the award of Sammanani (Shakya)
 Premachandra's PhD degree was approved last week. Shakya's thesis, entitled 

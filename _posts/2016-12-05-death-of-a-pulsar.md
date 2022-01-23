@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "The last outburst of a millisecond pulsar?"
 category: pulsars
 layout: null
 time: 21:09
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/outburst2015.jpg" width="100" align="left">
 The 599&nbsp;Hz millisecond pulsar IGR&nbsp;J00291+5934 is a source I've been 
 studying for more than a decade, having been involved in the 

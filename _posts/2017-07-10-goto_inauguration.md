@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "GOTO La Palma site inauguration"
 category: press
 layout: null
 time: 04:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <a href="https://www.space.com/37412-optical-telescope-gravitational-wave-sources.html"><img src="images/GOTO_ORM_CielosLaPalma_030717_0119.jpg" width="100" align="left"></a>
 This month saw the official inauguration of Warwick's La Palma observing site,
 now hosting the

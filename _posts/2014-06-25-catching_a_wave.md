@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Catching a gravitational wave"
 category: press
 layout: null
 time: 16:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- added retroactively 2015 Jul 3 -->
 <a href="http://phys.org/news/2014-06-gravitational.html"><img src="http://cdn.phys.org/newman/csz/news/800/2014/catchingagra.jpg" width="100" align="left"></a>
 Gravitational waves are incredibly feeble, and it doesn't help when the

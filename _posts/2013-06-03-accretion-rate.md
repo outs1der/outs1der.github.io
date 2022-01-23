@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Varying accretion rate during bursts"
 category: thermonuclear bursts
 layout: null
 time: 03:19
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/burstzoom.gif" width="100" align="left">
 Since the 1970s the standard approach for analysing the X-ray spectrum emitted
 during thermonuclear bursts included subtracting off the persistent spectrum

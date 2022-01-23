@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "SINS summer school"
 category: meetings
 layout: null
 time: 07:19
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:21:45 EST 2012 -->
 <!-- converted from ../2007/01/sins-summer-school.html -->
 <!-- Post timestamp Tuesday, January 23, 2007 5:19 PM -->

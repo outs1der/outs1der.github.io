@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "The remarkable <em>RXTE</em> observations of the Rapid Burster"
 category: postgrads
 layout: null
 time: 02:07
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/rapid_burster.jpg" width="100" align="left">
 The Rapid Burster is a neutron-star binary that exhibits singular behaviour;
 extremely frequent "type-II" X-ray bursts, which cannot be thermonuclear in

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Slow rotation in the Rapid Burster?"
 category: thermonuclear bursts
 layout: null
 time: 23:58
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/20071205_slow_sign2_3.jpg" width="100" align="left">
 The Rapid Burster is unique for its so-called type-II X-ray bursts, during
 which the X-ray intensity brightens dramatically, and which can recur as often

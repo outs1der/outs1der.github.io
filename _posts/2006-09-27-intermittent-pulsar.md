@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Intermittent pulsations in HETE&nbsp;J1900.1-2455"
 category: pulsars
 layout: null
 time: 04:29
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:40:59 EST 2012 -->
 <!-- converted from ../2006/09/intermittent-pulsations-in-hetej19001.html -->
 <!-- Post timestamp Wednesday, September 27, 2006 12:29 PM -->

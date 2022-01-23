@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Thermonuclear bursts observed by RXTE"
 category: thermonuclear bursts
 layout: null
 time: 15:51
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:42:55 EST 2012 -->
 <!-- converted from ../2006/08/thermonuclear-bursts-observed-by-rxte.html -->
 <!-- Post timestamp Tuesday, August 15, 2006 11:51 PM -->

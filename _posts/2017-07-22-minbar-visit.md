@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "MINBAR meetings lead to new burst source"
 category: thermonuclear bursts
 layout: null
 time: 04:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/Gagarin_DTU_Space.jpg" width="100" align="left">
 This (northern) summer I visited colleagues at 
 <a href="http://www.space.dtu.dk/english">DTU Space, Denmark</a> and 

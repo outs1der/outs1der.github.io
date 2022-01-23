@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Ignition depth for 4U 1728-34 bursts"
 category: thermonuclear bursts
 layout: null
 time: 07:45
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Monday, June 14, 2010 3:45 PM-->
   <!---- Begin .post ---->
 <img src="images/boiling.jpeg" width="127" align="left">

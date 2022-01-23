@@ -1,10 +1,10 @@
 ---
-title: Biases for neutron-star mass, radius and distance measurements
+title: "Biases for neutron-star mass, radius and distance measurements"
 category: neutron star EOS
 layout: null
 time: 04:45
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 02:50:55 EST 2012 -->
 <!-- converted from ../2008/03/biases-for-neutron-star-mass-radius-and.html -->
 <!-- Post timestamp Tuesday, March 18, 2008 2:45 PM -->

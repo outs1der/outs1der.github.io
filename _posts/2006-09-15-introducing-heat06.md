@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "HEAT is... well, hot"
 category: meetings
 layout: null
 time: 07:43
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:41:23 EST 2012 -->
 <!-- converted from ../2006/09/heat-is-well-hot.html -->
 <!-- Post timestamp Friday, September 15, 2006 3:43 PM -->

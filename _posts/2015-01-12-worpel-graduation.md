@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Hauke's second thesis paper and postdoctoral position"
 category: postgrads
 layout: null
 time: 03:35
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/hauke_mugshot.gif" width="100" align="left">
 I am proud and pleased to report 
 Since the 1970s the standard approach for analysing the X-ray spectrum emitted

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "US/Netherlands tour"
 category: thermonuclear bursts
 layout: null
 time: 03:25
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 02:49:47 EST 2012 -->
 <!-- converted from ../2008/05/usnetherlands-tour.html -->
 <!-- Post timestamp Thursday, May 01, 2008 11:25 AM -->

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Cracking the code of burst rates"
 category: thermonuclear bursts
 layout: null
 time: 03:41
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/burst_rate.jpeg" width="100" align="left">
 It's been a long-standing mystery, how for some burst sources, the burst rate 
 <em>decreases</em> even as the accretion rate <em>increases</em>. Theory

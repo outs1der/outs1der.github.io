@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "The Variable Warm Absorber in Circinus X-1"
 category: spectroscopy
 layout: null
 time: 21:19
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:12:13 EST 2012 -->
 <!-- converted from ../2007/09/variable-warm-absorber-in-circinus-x-1.html -->
 <!-- Post timestamp Tuesday, September 25, 2007 5:19 AM -->

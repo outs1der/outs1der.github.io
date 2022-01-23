@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Going, going, almost gone"
 category: pulsars
 layout: null
 time: 07:05
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Tue Jan 31 01:08:37 EST 2012 -->
 <!-- converted from ../2002/05/going-going-almost-gone.html -->
 <!-- Post timestamp Friday, May 24, 2002 3:05 PM -->

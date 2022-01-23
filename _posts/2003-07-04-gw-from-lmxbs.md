@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Gravitational waves may set speed limit for pulsar spin"
 category: pulsars
 layout: null
 time: 05:59
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Tue Jan 31 01:06:56 EST 2012 -->
 <!-- converted from ../2003/07/gravitational-waves-may-set-speed.html -->
 <!-- Post timestamp Friday, July 04, 2003 1:59 PM -->

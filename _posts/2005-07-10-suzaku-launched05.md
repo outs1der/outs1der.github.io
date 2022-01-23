@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Suzaku (aka ASTRO-EII) launched"
 category: missions
 layout: null
 time: 16:18
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Tue Jan 31 00:21:26 EST 2012 -->
 <!-- converted from ../2005/07/suzaku-aka-astro-eii-launched.html -->
 <!-- Post timestamp Monday, July 11, 2005 12:18 AM -->

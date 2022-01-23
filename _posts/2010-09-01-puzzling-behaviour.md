@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Puzzling behaviour in IGR&nbsp;J17473-2721"
 category: transients
 layout: null
 time: 07:43
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Wednesday, September 1, 2010 3:43 PM-->
   <!---- Begin .post ---->
 <img src="images/star_nuclear_exp.jpg" width="100" align="left"> A

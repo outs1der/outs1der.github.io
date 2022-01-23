@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Seeking postdoctoral associates in gravitational wave astronomy"
 category: opportunities
 layout: null
 time: 01:31
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/goto_small.jpg" width="100" align="left">
 Following the approval of our
 <a href="http://ozgrav.org">Centre for Excellence in Gravitational-wave Astronomy, OzGRav</a>,

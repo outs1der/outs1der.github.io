@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Simulating X-ray bursts during a transient accretion event"
 category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/johnston18.png" width="100" align="left">
 </p>
 <p>Thermonuclear burst modelling has to date focused on stable accretion rates,

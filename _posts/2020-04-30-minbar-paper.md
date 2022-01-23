@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "MINBAR paper accepted!"
 category: thermonuclear bursts
 layout: null
 time: 07:10
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/minbar.png" width="100" align="left">
 In late February we submitted the paper describing data release 1 (DR1) of the 
 <a href="http://burst.sci.monash.edu/minbar">Multi-Instrument Burst Archive 

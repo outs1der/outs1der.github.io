@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "The apparent neutron-star radius during bursts"
 category: thermonuclear bursts
 layout: null
 time: 04:31
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 02:22:57 EST 2012 -->
 <!-- converted from ../2009/09/apparent-neutron-star-radius-during.html -->
 <!-- Post timestamp Tuesday, September 01, 2009 12:31 AM -->

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Hunting Gravitational Waves with Multi-Messenger Counterparts: Australia's Role"
 category: gravitational waves
 layout: null
 time: 05:02
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
       <img src="images/daily_mail_gw.jpg" width="100" align="left">
 The first observations by a worldwide network of advanced interferometric
 gravitational wave detectors offer a unique opportunity for the astronomical

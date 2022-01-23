@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Timing the pulsar in IGR J00291+5934: the race is on!"
 category: pulsars
 layout: null
 time: 08:56
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Wednesday, June 23, 2010 4:56 PM-->
   <!---- Begin .post ---->
 <img src="images/09ss_finish.jpg" width="100" align="left">

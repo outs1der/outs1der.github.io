@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Kepler predictions for thermonuclear bursts"
 category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/lampe16_fig2.jpg" width="100" align="left">
 Monash researcher
 <a href="http://2sn.org">Alexander Heger</a> has been for many years exploring

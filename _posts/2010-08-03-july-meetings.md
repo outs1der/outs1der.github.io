@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "July is meeting month"
 category: meetings
 layout: null
 time: 04:21
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Tuesday, August 3, 2010 12:21 PM-->
   <!---- Begin .post ---->
 <a href="http://www.flickr.com/photos/andrew_cumming/4850910653/"><img src="http://farm5.static.flickr.com/4134/4850910653_1de9c59ac6_t.jpg" width="100" align="left"></a>

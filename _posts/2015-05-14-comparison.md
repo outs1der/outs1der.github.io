@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Searches for gravitational waves from Sco X-1"
 category: gravitational waves
 layout: null
 time: 03:55
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
       <img src="images/det_eff_thumb.jpg" width="100" align="left">
 Sco X-1 is the brightest X-ray source (excluding the sun) in the sky, and 
 is potentially also the brightest source of continuous gravitational waves.

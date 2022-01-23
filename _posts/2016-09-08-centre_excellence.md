@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "ARC Centre of Excellence for Gravitational Wave Discovery approved"
 category: gravitational waves
 layout: null
 time: 02:33
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
       <img src="images/uluru_ligo.jpg" width="100" align="left">
 The <a href="http://arc.gov.au">Australian Research Council</a> announced
 this morning the outcomes of the 

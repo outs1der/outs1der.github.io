@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Thermonuclear bursts in the spotlight"
 category: thermonuclear bursts
 layout: null
 time: 02:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/burst_theory.jpeg" width="100" align="left">
 </p>
 <p>It's been a few years now since a review of thermonuclear bursts came out,

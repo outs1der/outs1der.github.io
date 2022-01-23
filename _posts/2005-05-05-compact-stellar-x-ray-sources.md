@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Compact Stellar X-ray Sources"
 category: reference
 layout: null
 time: 19:44
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Tue Jan 31 00:24:43 EST 2012 -->
 <!-- converted from ../2005/05/compact-stellar-x-ray-sources.html -->
 <!-- Post timestamp Friday, May 06, 2005 3:44 AM -->

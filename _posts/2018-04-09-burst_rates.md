@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "The influence of stellar spin on thermonuclear runaways"
 category: thermonuclear bursts
 layout: null
 time: 04:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <a href="images/fig2.png""><img src="images/fig2.png" width="100" align="left"></a>
 </p>
 <p>Many burst sources exhibit inexplicable decreases in burst rate even as the 

@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "40 years of X-ray bursts: Extreme explosions in dense environments"
 category: meetings
 layout: null
 time: 19:02
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <img src="images/esac_meeting_2015_attendees.jpg" width="100" align="left"></a>
 This June the terrific people at ESAC hosted a 3-day

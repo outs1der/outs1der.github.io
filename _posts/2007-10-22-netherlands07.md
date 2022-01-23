@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Netherlands visit"
 category: visits
 layout: null
 time: 04:13
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <!-- created by convert.pl on Mon Jan 30 23:11:15 EST 2012 -->
 <!-- converted from ../2007/10/netherlands-visit.html -->
 <!-- Post timestamp Monday, October 22, 2007 12:13 PM -->

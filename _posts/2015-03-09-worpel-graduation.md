@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Hauke's thesis accepted; postdoctoral position"
 category: postgrads
 layout: null
 time: 05:33
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
 <img src="images/hauke_mugshot.jpg" width="100" align="left">
 I am proud and pleased to report 
 the award of 

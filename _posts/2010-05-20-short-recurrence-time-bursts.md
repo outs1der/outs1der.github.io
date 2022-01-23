@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Short recurrence time bursts"
 category: thermonuclear bursts
 layout: null
 time: 03:30
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!-- Thursday, May 20, 2010 11:30 AM-->
   <!---- Begin .post ---->
 <img src="images/swt.gif" width="100" align="left">

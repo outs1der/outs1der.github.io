@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Searching for X-ray pulsations from Sco X-1"
 category: gravitational waves
 layout: null
 time: 03:00
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <a href="http://chandra.harvard.edu/xray_sources/sco/sco.html" title="The Story of Sco X-1"><img src="images/scox1-galaudage.png" width="100" align="left" alt="Plot image from the paper"></a>
 Bright X-ray binaries are thought to be promising candidates for detecting

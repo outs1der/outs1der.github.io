@@ -1,10 +1,10 @@
 ---
-title: "${title}"
+title: "Australian Astronomy Decadal Plan 2016&mdash;25"
 category: meetings
 layout: null
 time: 04:58
 ---
-<!-- converted from blosxom format post by dkg 22.1.2022 -->
+<!-- converted from blosxom format post using convert.pl dkg 22.1.2022 -->
   <!---- Begin .post ---->
 <img src="images/road_sign.jpg" width="100" align="left"></a>
 Every ten years the Australian astronomy community collaborates to produce
