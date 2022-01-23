@@ -4,24 +4,43 @@ title: "Curriculum Vitæ - Duncan Galloway"
 permalink: /cv/ 
 ---
 
-Curriculum Vitæ - Duncan Galloway
-=================================
+<center><H1>Curriculum Vit&aelig; - Duncan Galloway</H1></center>
 
-**Contact details:**
-
-[School of Physics & Astronomy](http://www.physics.monash.edu.au)  
-[Monash University](http://www.monash.edu.au)  
+<TABLE WIDTH=100% BORDER=1 CELLPADDING=2 CELLSPACING=0>
+  <TR>
+    <TD COLSPAN=2>
+      <P ALIGN=CENTER><B>Contact details:</B>
+    </TD>
+  </TR>
+  <TR VALIGN=TOP>
+    <TD width=60%>
+      <ADDRESS>
+  <a href="http://www.physics.monash.edu.au">School of Physics & Astronomy</a>
+  <! School of Mathematical Sciences; no longer ><br>
+<a href="http://www.monash.edu.au">Monash University</a><br>
 Victoria 3800, Australia
 
-**Tel:** +61 (0)3 9905-4422  
-**Fax:** +61 (0)3 9905-3637  
-**Mobile:** +61 (0)414 139-763
+      </ADDRESS>
+    </TD>
+    <TD width=40% align=right>
+      <ADDRESS>
+<b>Tel:</b> +61 (0)3 9905-4422<br> <! was 9902-0393 in Physics >
+<!-- Fax:</b> +61 (0)3 9905-3637 -->
+<b>Mobile:</b> +61 (0)414 139-763<br>
+<b>Mobile:</b> +31 (0)6 86490075
 
-**email:** Duncan.Galloway@monash.edu  
-**www:** [https://outs1der.github.io](https://outs1der.github.io)
-**ORCID:** [orcid.org/0000-0002-6558-5121](http://orcid.org/0000-0002-6558-5121)
+     </ADDRESS>
+</tr><tr><td colspan=2 align=center>
+      <ADDRESS>
+<b>email:</b> Duncan.Galloway@monash.edu<br>
+<b>www:</b> <a href="https://outs1der.github.io">https://outs1der.github.io</a><br>
+<b>ORCID:</b> <a href="http://orcid.org/0000-0002-6558-5121">orcid.org/0000-0002-6558-5121</a>
+     </ADDRESS>
+    </TD>
+  </TR>
+</TABLE>
 
-![](images/separator.jpg)
+<p><img src="images/separator.jpg" width=100%></p>
 
 EDUCATION
 ---------
@@ -483,11 +502,11 @@ _1995—1997_
 
 [_show/hide full list_](javascript:unhide('allpubs');)
 
-![](images/separator.jpg)
+<p><img src="images/separator.jpg" width=100%></p>
 
 [<< Home](index.html)
 
 * * *
 
 ##### URL: http://outs1der.github.io/cv.html  
-21st January 2022
+22nd January 2022
