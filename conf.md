@@ -253,9 +253,9 @@ X-ray Pulsars" workshop, 14-18 April 2008, Amsterdam, NL.<br>
   techniques for visualizing coastal flow dynamics.</b>
   Proceedings of the 4<sup>th</sup> International Conference on
   Estuarine and Coastal Modelling, October 26-28, 1995, San Diego,
-  California USA. 
+  California USA.
   <!-- link broken http://www.aims.gov.au/ibm/reports/visual/visual6.html -->
-  
+</li>
 </UL>
 
 <p><img src="images/separator.jpg" width="100%"></p>

@@ -6,7 +6,7 @@ time: 13:18
 ---
 <!-- converted from blosxom format post by dkg 22.1.2022 -->
   <!---- Begin .post ---->
-<img src="/images/longbursts12.jpg" width="100" height="100" align="left">
+<img src="images/longbursts12.jpg" width="100" height="100" align="left">
 Regular, mixed H/He thermonuclear bursts have long served as valuable comparisons for
 numerical ignition models. Such bursts are observed only from a few systems,
 and it remains a mystery why this mode of bursting is so rare. 
