@@ -2,16 +2,18 @@
 title: Long bursts and the neutron star EOS
 category: neutron star EOS
 layout: null
+time: 13:18
 ---
-  <!-- Begin .post -->
-<img src="/~dgallow/images/longbursts12.jpg" width=100 height=100 align=left>
+<!- converted from blosxom format post by dkg 22.1.2022 -->
+  <!---- Begin .post ---->
+<img src="/~dgallow/images/longbursts12.jpg" width="100" height="100" align="left">
 Regular, mixed H/He thermonuclear bursts have long served as valuable comparisons for
 numerical ignition models. Such bursts are observed only from a few systems,
 and it remains a mystery why this mode of bursting is so rare. 
-<a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ginga+1826-24&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id">GS&nbsp;1826-24</a>
+<a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident="ginga+1826-24&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id"">GS&nbsp;1826-24</a>
 is well-known for it's consistently regular bursts, but similarly regular
 bursts have also been observed from the long-duration (now quiescent) transient
-<a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ks+1731-260&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id">KS&nbsp;1731-26</a>. These bursts may also serve as important test-cases for
+<a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident="ks+1731-260&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id"">KS&nbsp;1731-26</a>. These bursts may also serve as important test-cases for
 understanding the burst X-ray spectrum and how it may be used to constrain the
 neutron star EOS.<br>
 Recently Nathanael Lampe & I published 
