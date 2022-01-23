@@ -172,11 +172,9 @@ Total of 108 publications in astrophysics (excluding [conference proceedings](co
 *   Mullaney, J. R., Makrygianni, L., Dhillon, V., Littlefair, S, for the GOTO collaboration including Galloway, D. K. (2021). **Processing GOTO data with the Rubin Observatory LSST Science Pipelines I: Production of coadded frames.** PASA 38, e004  
     \[ [PASA](https://doi.org/10.1017/pasa.2020.45) | [ADS](https://ui.adsabs.harvard.edu/abs/2021PASA...38....4M) | [arXiv:2010.15142](https://arxiv.org/abs/2010.15142) \]
     
-<p><img src="images/separator.jpg" width="100%"></p>
-
 [<< Home](http://outs1der.github.io)
 
-* * *
+<p><img src="images/separator.jpg" width="100%"></p>
 
-##### URL: http://outs1der.github.io/cv.html  
-##### 22nd January 2022
+<h5>URL: http://outs1der.github.io/cv.html  <br>
+22<sup>nd</sup> January 2022</h5>
