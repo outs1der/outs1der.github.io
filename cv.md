@@ -7,7 +7,7 @@ permalink: /cv/
 <center><H1>Curriculum Vit&aelig; - Duncan Galloway</H1></center>
 
 <p>
-<table WIDTH=100%><!-- BORDER=1 CELLPADDING=2 CELLSPACING=0 -->
+<table><!--  WIDTH=100% BORDER=1 CELLPADDING=2 CELLSPACING=0 -->
   <TR>
     <TD COLSPAN=2>
       <P ALIGN=CENTER><B>Contact details:</B>
