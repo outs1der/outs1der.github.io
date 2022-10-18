@@ -100,8 +100,8 @@ TEACHING EXPERIENCE
 
 *   Current students:
     *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020—)
-    *   Yik Lun (Travis) Mong (PhD with [Kendall Ackley](https://research.monash.edu/en/persons/kendall-ackley), 2018—)
 *   Previous students:
+    *   [Yik Lun (Travis) Mong](https://www.linkedin.com/in/travis-mong-4709631b0) (PhD with [Kendall Ackley](https://research.monash.edu/en/persons/kendall-ackley), 2018—22)
     *   [Adelle Goodwin](https://adellej.github.io) (PhD with [Alexander Heger](http://2sn.org), 2017—20); now postdoc at [ICRAR](https://www.icrar.org), Curtin, WA
     *   Zac Johnston (PhD with [Alexander Heger](http://2sn.org), 2016—19); now postdoc at [MSU](https://pa.msu.edu)
     *   Vaishali Parkash (PhD with [Michael Brown](http://monash.edu/science/about/schools/physics/ourpeople/academic/brown.html), 2015—19)
@@ -134,13 +134,22 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 108 publications in astrophysics (excluding [conference proceedings](conf.html)) since 1998, with 4072 citations (as of 25th May 2021; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
+Total of 111 publications in astrophysics (excluding [conference proceedings](conf.html)) since 1998, with 4072 citations (as of 25th May 2021; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
+
+*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Submitted to MNRAS
+    \[ [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
 
 *   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
     \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
     
-*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** Accepted by MNRAS  
-    \[ [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
+*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022) **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS
+    \[ [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
+
+*   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009
+    \[ [OUP](https://doi.org/10.1093/mnras/stab3402) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1002D) | [arXiv:2111.10416](https://arxiv.org/abs/2111.10416) \]
+
+*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422
+    \[ [OUP](https://doi.org/10.1093/mnras/stac013) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2405S) [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
     
 *   Galaudage, S., Wette, K., Galloway, D. K., Messenger C. (2021). **Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches.** MNRAS 509(2), 1745  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3095) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1745G) | [arXiv:2105.13803](https://arxiv.org/abs/2105.13803) \]
@@ -177,4 +186,4 @@ Total of 108 publications in astrophysics (excluding [conference proceedings](co
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-22<sup>nd</sup> January 2022</h5>
+18<sup>th</sup> October 2022</h5>
