@@ -32,7 +32,7 @@ Victoria 3800, Australia
   <tr>
     <td colspan="2" align="center">
       <ADDRESS>
-<b>email:</b> duncan.dalloway@monash.edu, duncan.galloway@igdore.org<br>
+<b>email:</b> duncan.galloway@monash.edu, duncan.galloway@igdore.org<br>
 <b>www:</b> <a href="https://outs1der.github.io">https://outs1der.github.io</a><br>
 <b>ORCID:</b> <a href="http://orcid.org/0000-0002-6558-5121">orcid.org/0000-0002-6558-5121</a>
       </ADDRESS>
@@ -135,6 +135,8 @@ RECENT PUBLICATIONS
 -------------------
 
 Total of 111 publications in astrophysics (excluding [conference proceedings](conf.html)) since 1998, with 4072 citations (as of 25th May 2021; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
+
+[//]: # (You need two spaces at the end of the line to trigger a line break)
 
 *   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
     \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
