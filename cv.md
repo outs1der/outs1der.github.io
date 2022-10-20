@@ -136,12 +136,12 @@ RECENT PUBLICATIONS
 
 Total of 111 publications in astrophysics (excluding [conference proceedings](conf.html)) since 1998, with 4072 citations (as of 25th May 2021; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
-*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Submitted to MNRAS
-    \[ [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
-
 *   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
     \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
     
+*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Accepted by MNRAS
+    \[ [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
+
 *   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022) **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS
     \[ [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
 
@@ -186,4 +186,4 @@ Total of 111 publications in astrophysics (excluding [conference proceedings](co
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-18<sup>th</sup> October 2022</h5>
+20<sup>th</sup> October 2022</h5>
