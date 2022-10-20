@@ -139,16 +139,16 @@ Total of 111 publications in astrophysics (excluding [conference proceedings](co
 *   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
     \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
     
-*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Accepted by MNRAS
+*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Accepted by MNRAS  
     \[ [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
 
-*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022) **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS
+*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022) **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS  
     \[ [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
 
-*   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009
+*   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3402) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1002D) | [arXiv:2111.10416](https://arxiv.org/abs/2111.10416) \]
 
-*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422
+*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422  
     \[ [OUP](https://doi.org/10.1093/mnras/stac013) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2405S) [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
     
 *   Galaudage, S., Wette, K., Galloway, D. K., Messenger C. (2021). **Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches.** MNRAS 509(2), 1745  
