@@ -151,7 +151,7 @@ Total of 111 publications in astrophysics (excluding [conference proceedings](co
     \[ [OUP](https://doi.org/10.1093/mnras/stab3402) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1002D) | [arXiv:2111.10416](https://arxiv.org/abs/2111.10416) \]
 
 *   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422  
-    \[ [OUP](https://doi.org/10.1093/mnras/stac013) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2405S) [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
+    \[ [OUP](https://doi.org/10.1093/mnras/stac013) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2405S) | [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
     
 *   Galaudage, S., Wette, K., Galloway, D. K., Messenger C. (2021). **Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches.** MNRAS 509(2), 1745  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3095) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1745G) | [arXiv:2105.13803](https://arxiv.org/abs/2105.13803) \]
