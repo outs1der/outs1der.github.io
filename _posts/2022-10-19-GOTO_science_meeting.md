@@ -24,6 +24,6 @@ is more inclusive and more environmentally friendly,
 that would otherwise be incurred with an in-person meeting. Additionally it requires
 much less overhead to organise, which is a help! Particular thanks to 
 <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe Jiminez-Ibarra</a> and 
-<a href="https://au.linkedin.com/in/travis-mong-4709631b0"></a>Travis Mong</a> for
+<a href="https://au.linkedin.com/in/travis-mong-4709631b0">Travis Mong</a> for
 their efforts in organising.
 </p>
