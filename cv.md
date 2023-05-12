@@ -134,18 +134,29 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 111 publications in astrophysics (excluding [conference proceedings](conf.html)) since 1998, with 4072 citations (as of 25th May 2021; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
+Total of 112 publications in astrophysics (excluding [conference
+proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
+2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
-*   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
-    \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
+*   Alizai, K., Chenevez, J., Cumming, A., Degenaar, N., Falanga, M., Galloway, D. K., in't Zand, J. J. M., Jaisawal, G. K., Keek, L., Kuulkers, E., Lampe, N., Schatz, H., Serino, M. (2023). **A catalogue of unusually long thermonuclear bursts on neutron stars.** MNRAS 521, 3608  
+    \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) \]
+
+*   Killestein, T. L., Mould, M., Steeghs, D., Casares, J., Galloway, D. K., Whelan, J. T.  (2023). **Precision Ephemerides for Gravitational-wave Searches - IV.  Corrected and refined ephemeris for Scorpius X-1.** MNRAS 520, 5317  
+    \[ [OUP](https://doi.org/10.1093/mnras/stad366) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.5317K) | [arXiv:2302.00018](https://arxiv.org/abs/2302.00018) \]
+
+# rejected, ultimately - 2023 May
+# *   Sarin, N., Ashton, G., Lasky, P. D., Ackley, K., Mong, Y.-L., Galloway, D. K. (2021). **CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23.** Submitted to ApJL  
+#     \[ [arXiv:2105.10108](https://arxiv.org/abs/2105.10108) \]
     
 *   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Accepted by MNRAS  
-    \[ [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
+    \[ [OUP](https://doi.org/10.1093/mnras/stac3103) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..752M) | [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
 
-*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022) **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS  
-    \[ [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
+*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022)
+*   **Robust inference of neutron-star parameters from thermonuclear burst
+*   observations** Accepted by ApJS  
+    \[ [IOP](https://iopscience.iop.org/article/10.3847/1538-4365/ac98c9) | [ADS](https://ui.adsabs.harvard.edu/abs/2022ApJS..263...30G) | [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
 
 *   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3402) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1002D) | [arXiv:2111.10416](https://arxiv.org/abs/2111.10416) \]
