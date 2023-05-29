@@ -142,7 +142,6 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** Submitted to MNRAS  
     \[ [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
-gamma-ray bursts
 
 *   Alizai, K., Chenevez, J., Cumming, A., Degenaar, N., Falanga, M., Galloway, D. K., in't Zand, J. J. M., Jaisawal, G. K., Keek, L., Kuulkers, E., Lampe, N., Schatz, H., Serino, M. (2023). **A catalogue of unusually long thermonuclear bursts on neutron stars.** MNRAS 521, 3608  
     \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) \]
