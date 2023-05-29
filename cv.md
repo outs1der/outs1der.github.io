@@ -134,11 +134,15 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 112 publications in astrophysics (excluding [conference
+Total of 113 publications in astrophysics (excluding [conference
 proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
+
+*   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** Submitted to MNRAS  
+    \[ [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
+gamma-ray bursts
 
 *   Alizai, K., Chenevez, J., Cumming, A., Degenaar, N., Falanga, M., Galloway, D. K., in't Zand, J. J. M., Jaisawal, G. K., Keek, L., Kuulkers, E., Lampe, N., Schatz, H., Serino, M. (2023). **A catalogue of unusually long thermonuclear bursts on neutron stars.** MNRAS 521, 3608  
     \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) \]
@@ -193,4 +197,4 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-20<sup>th</sup> October 2022</h5>
+29<sup>th</sup> May 2023</h5>
