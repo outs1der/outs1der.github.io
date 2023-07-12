@@ -82,16 +82,17 @@ EMPLOYMENT
 OTHER POSITIONS
 ---------------
 
-*   Science Lead, [eROSITA/AAL collaboration](https://astronomyaustralia.org.au/erosita-astronomy-australia-ltd.html), 2021—
-*   Affiliate, [Institute for Globally Distributed Open Research and Education (IGDORE)](http://igdore.org)
 *   Chief investigator, [ARC Centre of Excellence for Gravitational Wave Discovery (OzGRav)](http://www.ozgrav.org), 2017—
-*   Senior Investigator, [Joint Institute for Nuclear Astrophysics - Center for the Evolution of the Elements](http://www.jinaweb.org) (JINA-CEE), 2014—
-*   Principal Investigator, Australian [LSST](https://www.lsst.org) MoU (via [AAL](http://www.astronomyaustralia.org.au)), 2018— and member of the [Transients & Variable Star](https://lsst-tvssc.github.io) collaboration
-*   Member, [Astronomical Society of Australia](http://asa.astronomy.org.au)'s [Women in Astronomy (WiA)](http://asawomeninastronomy.org) and [Education & Public Outreach (EPOC)](https://asaepoc.wordpress.com) chapters; also member, [ASA Council](http://asa.astronomy.org.au/council.php#council), 2013—2017; vice-president 2015—2016 Nov
+*   Affiliate, [Institute for Globally Distributed Open Research and Education (IGDORE)](http://igdore.org)
+*   Member of the [LSST](https://www.lsst.org) [Transients & Variable Star](https://lsst-tvssc.github.io) collaboration
+*   Member, [Astronomical Society of Australia](http://asa.astronomy.org.au)'s [Women in Astronomy (WiA)](http://asawomeninastronomy.org) and [Education & Public Outreach (EPOC)](https://asaepoc.wordpress.com) chapters; also member, [ASA Council](http://asa.astronomy.org.au/council.php#council), 2013&mdash;2017; vice-president 2015&mdash;2016 Nov
+*   Member, [International Astronomical Union](http://www.iau.org), 2003—
+*   Senior Investigator, [Joint Institute for Nuclear Astrophysics - Center for the Evolution of the Elements](http://www.jinaweb.org) (JINA-CEE), 2014&mdash;21
+*   Science Lead, [eROSITA/AAL collaboration](https://astronomyaustralia.org.au/erosita-astronomy-australia-ltd.html), 2021&mdash;22
+*   Principal Investigator, Australian [LSST](https://www.lsst.org) MoU (via [AAL](http://www.astronomyaustralia.org.au)), 2018&mdash;21
 *   Chair, Australian [National Committee for Astronomy](http://science.org.au/natcoms/nc-astronomy.html)'s Decadal Plan 2016—25 working group 1.4: High energy and fundamental astrophysics, 2013—15
 *   Member, [Australia Telescope Time Assignment Committee](http://www.atnf.csiro.au/management/tac), 2012 Nov—15 & _Rossi X-ray Timing Explorer_ peer reviewer, 2000—2001
 *   Member, Australian [National Committee for Astronomy](http://www.atnf.csiro.au/nca)'s Decadal Review 2006—15 working groups [2.2 (Nearby Universe)](http://www.phys.unsw.edu.au/bbs) and [3.1 (International Facilities)](http://msowww.anu.edu.au/~brian/WG3.1), 2004—2005
-*   Member, [International Astronomical Union](http://www.iau.org), 2003—
 *   Member, LIGO Astronomy & Astrophysics Advisory Panel, 2013—14
 *   Referee, [Astronomy & Astrophysics](http://aa.springer.de/), [Monthly Notices of the Royal Astronomical Society](http://www.blackwellpublishing.com/journals/mnr) and the [Astrophysical Journal](http://www.journals.uchicago.edu/ApJ/)
 
@@ -99,7 +100,8 @@ TEACHING EXPERIENCE
 -------------------
 
 *   Current students:
-    *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020—)
+    *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020&mdash;)
+    *   Sergey Belkin (PhD with <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe Jim&eacute;nez-Ibarra</a> & <a href="https://warwick.ac.uk/fac/sci/physics/research/astro/people/kendallackley">Kendall Ackley</a>, 2023&mdash;)
 *   Previous students:
     *   [Yik Lun (Travis) Mong](https://www.linkedin.com/in/travis-mong-4709631b0) (PhD with [Kendall Ackley](https://research.monash.edu/en/persons/kendall-ackley), 2018—22)
     *   [Adelle Goodwin](https://adellej.github.io) (PhD with [Alexander Heger](http://2sn.org), 2017—20); now postdoc at [ICRAR](https://www.icrar.org), Curtin, WA
@@ -113,10 +115,10 @@ TEACHING EXPERIENCE
     *   Christine Chung (PhD 2010, with [Andrew Melatos](http://www.ph.unimelb.edu.au/~amelatos)) U. Melbourne; now Bureau of Meteorology, Melbourne
     *   [Dane Kleiner](http://www.physics.monash.edu.au/people/students/kleiner.html) (Honours 2009) then PhD 2012—2017 with [Kevin Pimbblet](http://users.monash.edu.au/~kpimbble/Kevin_A._Pimbblet/Home.html)
     *   Timothy Atta (Honours 2009)
-*   **[ASP3051 Relativity and Cosmology](http://monash.edu/pubs/handbooks/units/ASP3051.html)** lecturing & course coordination, 2014—21
-*   **[ASP3231 Observational Astronomy](http://www.monash.edu.au/pubs/handbooks/units/ASP3231.html)** "Beyond Optical" component, 2008—21
+*   **[ASP3051 Relativity and Cosmology](http://monash.edu/pubs/handbooks/units/ASP3051.html)** lecturing & course coordination, 2014—23
+*   **[ASP3231 Observational Astronomy](http://www.monash.edu.au/pubs/handbooks/units/ASP3231.html)** "Beyond Optical" component, 2008—23
 *   **[ASP2062 Introduction to Astrophysics](http://monash.edu/pubs/handbooks/units/ASP2062.html)** lecturing & course coordination, 2014—17
-*   **[ASP2011 Astronomy](http://monash.edu/pubs/2014handbooks/units/ASP2011.html)** "Measuring Stars" component & course coordination, 2014; "Measurement Techniques" component, 2007
+*   **[ASP2011 Astronomy](http://monash.edu/pubs/2014handbooks/units/ASP2011.html)** "Celestial mechanics" component, 2023; "Measuring Stars" component & course coordination, 2014; "Measurement Techniques" component, 2007
 *   **M4222/1 Research Topics (Honours)** component "Statistics for X-ray Data Analysis", Semester 2, 2009 & Semester 1, 2011—14
 *   **M4331 Planetary Dynamics/Binary Stars (Honours)** component "X-ray Binaries", Semester 1, 2008
 
@@ -140,8 +142,8 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
-*   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** Submitted to MNRAS  
-    \[ [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
+*   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923
+    \[ [OUP](https://doi.org/10.1093/mnras/stad1703) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4923P) | [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
 
 *   Alizai, K., Chenevez, J., Cumming, A., Degenaar, N., Falanga, M., Galloway, D. K., in't Zand, J. J. M., Jaisawal, G. K., Keek, L., Kuulkers, E., Lampe, N., Schatz, H., Serino, M. (2023). **A catalogue of unusually long thermonuclear bursts on neutron stars.** MNRAS 521, 3608  
     \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) \]
@@ -196,4 +198,4 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-29<sup>th</sup> May 2023</h5>
+i12<sup>th</sup> July 2023</h5>
