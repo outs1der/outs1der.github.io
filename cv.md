@@ -143,7 +143,7 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
 *   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Accepted by Nature.  
-    \[ [Nature](https://www.nature.com/articles/d41586-023-03484-7) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
+    \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923  
     \[ [OUP](https://doi.org/10.1093/mnras/stad1703) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4923P) | [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]

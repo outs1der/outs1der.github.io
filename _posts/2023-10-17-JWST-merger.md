@@ -20,6 +20,6 @@ following the event, which I played an infinitessimally small role in.
 Most excitingly, the campaign also found a spectral line feature in JWST
 mid-IR spectrum, possibly arising from Tellurium produced (presumably
 along with other heavy elements) during the event. The 
-<a href="https://www.nature.com/articles/d41586-023-03484-7">paper</a> has
+<a href="https://www.nature.com/articles/s41586-023-06759-1">paper</a> has
 now been accepted by Nature and is also available at 
 <a href="https://arxiv.org/abs/2307.02098">arXiv:2307.02098</a>.</p>
