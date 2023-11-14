@@ -142,14 +142,14 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
-*   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy *   neutron capture elements in a compact object merger** Accepted by Nature.  
-    \[ [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
+*   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Accepted by Nature.  
+    \[ [Nature](https://www.nature.com/articles/d41586-023-03484-7) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923  
     \[ [OUP](https://doi.org/10.1093/mnras/stad1703) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4923P) | [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
 
 *   Alizai, K., Chenevez, J., Cumming, A., Degenaar, N., Falanga, M., Galloway, D. K., in't Zand, J. J. M., Jaisawal, G. K., Keek, L., Kuulkers, E., Lampe, N., Schatz, H., Serino, M. (2023). **A catalogue of unusually long thermonuclear bursts on neutron stars.** MNRAS 521, 3608  
-    \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) \]
+    \[ [OUP](https://doi.org/10.1093/mnras/stad374) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3608A) | [arXiv:2308.03499](https://arxiv.org/abs/2308.03499) \]
 
 *   Killestein, T. L., Mould, M., Steeghs, D., Casares, J., Galloway, D. K., Whelan, J. T.  (2023). **Precision Ephemerides for Gravitational-wave Searches - IV.  Corrected and refined ephemeris for Scorpius X-1.** MNRAS 520, 5317  
     \[ [OUP](https://doi.org/10.1093/mnras/stad366) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.5317K) | [arXiv:2302.00018](https://arxiv.org/abs/2302.00018) \]
