@@ -6,7 +6,7 @@ time: 12:00
 ---
 <p>
 <img src="images/kilonova_seekers.png" width="100" align="left">
-<a href="http://goto-observatory.org">GOTO</a> collaboration Tom
+<a href="http://goto-observatory.org">GOTO</a> collaborators Tom
 Killestein and Lisa Kelsey oversaw the launch at the 
 <a href="https://nam2023.org">UK NAM</a> this week of a wonderful new
 citizen-science initative, 

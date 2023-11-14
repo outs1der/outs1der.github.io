@@ -136,11 +136,14 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 113 publications in astrophysics (excluding [conference
+Total of 114 publications in astrophysics (excluding [conference
 proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
+
+*   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy *   neutron capture elements in a compact object merger** Accepted by Nature.  
+    \[ [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923  
     \[ [OUP](https://doi.org/10.1093/mnras/stad1703) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4923P) | [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
@@ -198,4 +201,4 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-i12<sup>th</sup> July 2023</h5>
+14<sup>th</sup> July 2023</h5>
