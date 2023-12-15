@@ -107,8 +107,7 @@ TEACHING EXPERIENCE
     *   [Adelle Goodwin](https://adellej.github.io) (PhD with [Alexander Heger](http://2sn.org), 2017—20); now postdoc at [ICRAR](https://www.icrar.org), Curtin, WA
     *   Zac Johnston (PhD with [Alexander Heger](http://2sn.org), 2016—19); now postdoc at [MSU](https://pa.msu.edu)
     *   Vaishali Parkash (PhD with [Michael Brown](http://monash.edu/science/about/schools/physics/ourpeople/academic/brown.html), 2015—19)
-    *   [Shanika Galaudage](https://shanikagalaudage.github.io) (Honours
-    *   2018); now postdoc at the [Observatoire de la C&ocirc;te d'Azur](https://lagrange.oca.eu/fr/accueil-lagrange)
+    *   [Shanika Galaudage](https://shanikagalaudage.github.io) (Honours 2018); now postdoc at the [Observatoire de la C&ocirc;te d'Azur](https://lagrange.oca.eu/fr/accueil-lagrange)
     *   Adelle Goodwin (Honours 2016)
     *   [Hauke Worpel](http://haukeworpel.altervista.org) (PhD with [Daniel Price](http://users.monash.edu.au/~dprice), 2011—14); now postdoc in Barcelona, Spain
     *   [Shakya Premachandra](http://physics.monash.edu.au/people/students/premachandra.html) (PhD with [Danny Steeghs](http://www2.warwick.ac.uk/fac/sci/physics/research/astro/people/steeghs/), Warwick, 2010—15)
