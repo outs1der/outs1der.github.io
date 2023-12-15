@@ -100,14 +100,15 @@ TEACHING EXPERIENCE
 -------------------
 
 *   Current students:
-    *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020&mdash;)
-    *   Sergey Belkin (PhD with <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe Jim&eacute;nez-Ibarra</a> & <a href="https://warwick.ac.uk/fac/sci/physics/research/astro/people/kendallackley">Kendall Ackley</a>, 2023&mdash;)
+    *   Sergey Belkin (PhD with <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe Jim&eacute;nez-Ibarra</a> & <a href="https://kendallackley.github.io/">Kendall Ackley</a>, 2023&mdash;)
 *   Previous students:
-    *   [Yik Lun (Travis) Mong](https://www.linkedin.com/in/travis-mong-4709631b0) (PhD with [Kendall Ackley](https://research.monash.edu/en/persons/kendall-ackley), 2018—22)
+    *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020&mdash;23)
+    *   [Yik Lun (Travis) Mong](https://www.linkedin.com/in/travis-mong-4709631b0) (PhD with [Kendall Ackley](https://kendallackley.github.io), 2018&mdash;22)
     *   [Adelle Goodwin](https://adellej.github.io) (PhD with [Alexander Heger](http://2sn.org), 2017—20); now postdoc at [ICRAR](https://www.icrar.org), Curtin, WA
     *   Zac Johnston (PhD with [Alexander Heger](http://2sn.org), 2016—19); now postdoc at [MSU](https://pa.msu.edu)
     *   Vaishali Parkash (PhD with [Michael Brown](http://monash.edu/science/about/schools/physics/ourpeople/academic/brown.html), 2015—19)
-    *   Shanika Galaudage (Honours 2018); now Monash PhD with [Eric Thrane](https://users.monash.edu.au/~erict)
+    *   [Shanika Galaudage](https://shanikagalaudage.github.io) (Honours
+    *   2018); now postdoc at the [Observatoire de la C&ocirc;te d'Azur](https://lagrange.oca.eu/fr/accueil-lagrange)
     *   Adelle Goodwin (Honours 2016)
     *   [Hauke Worpel](http://haukeworpel.altervista.org) (PhD with [Daniel Price](http://users.monash.edu.au/~dprice), 2011—14); now postdoc in Barcelona, Spain
     *   [Shakya Premachandra](http://physics.monash.edu.au/people/students/premachandra.html) (PhD with [Danny Steeghs](http://www2.warwick.ac.uk/fac/sci/physics/research/astro/people/steeghs/), Warwick, 2010—15)
@@ -136,11 +137,15 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 114 publications in astrophysics (excluding [conference
-proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
+Total of 115 publications in astrophysics (excluding [conference
+proceedings](conf.html)) since 1998, with 5164 citations (as of 15th
+December
 2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
+
+*   Tse, K., D. K. Galloway, & A. Heger (2023). **Discovery of millihertz Quasi-Periodic Oscillations in the Low Mass X-Ray Binary XTE J1701–462 from a Search of the RXTE Legacy data set.** Submitted to MNRAS  
+    \[ [arXiv:2309.05236](https://arxiv.org/abs/2309.05236) \]
 
 *   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Accepted by Nature.  
     \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
@@ -201,4 +206,4 @@ proceedings](conf.html)) since 1998, with 4933 citations (as of 12th May
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-14<sup>th</sup> July 2023</h5>
+15<sup>th</sup> December 2023</h5>
