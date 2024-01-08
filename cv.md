@@ -136,12 +136,15 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 115 publications in astrophysics (excluding [conference
+Total of 116 publications in astrophysics (excluding [conference
 proceedings](conf.html)) since 1998, with 5164 citations (as of 15th
 December
 2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
+
+*   Belkin, S. et al. including Galloway, D. K. (2024). **GRB 230911A: The First Discovery of a Fermi GRB Optical Counterpart with the Gravitational-wave Optical Transient Observer (GOTO)** RNAAS, 8, #1  
+    \[ [IOP](https://iopscience.iop.org/article/10.3847/2515-5172/ad1876) \]
 
 *   Tse, K., D. K. Galloway, & A. Heger (2023). **Discovery of millihertz Quasi-Periodic Oscillations in the Low Mass X-Ray Binary XTE J1701–462 from a Search of the RXTE Legacy data set.** Submitted to MNRAS  
     \[ [arXiv:2309.05236](https://arxiv.org/abs/2309.05236) \]
@@ -205,4 +208,4 @@ December
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-15<sup>th</sup> December 2023</h5>
+8<sup>th</sup> January 2024</h5>
