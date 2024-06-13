@@ -115,10 +115,10 @@ TEACHING EXPERIENCE
     *   Christine Chung (PhD 2010, with [Andrew Melatos](http://www.ph.unimelb.edu.au/~amelatos)) U. Melbourne; now Bureau of Meteorology, Melbourne
     *   [Dane Kleiner](http://www.physics.monash.edu.au/people/students/kleiner.html) (Honours 2009) then PhD 2012—2017 with [Kevin Pimbblet](http://users.monash.edu.au/~kpimbble/Kevin_A._Pimbblet/Home.html)
     *   Timothy Atta (Honours 2009)
-*   **[ASP3051 Relativity and Cosmology](http://monash.edu/pubs/handbooks/units/ASP3051.html)** lecturing & course coordination, 2014—23
-*   **[ASP3231 Observational Astronomy](http://www.monash.edu.au/pubs/handbooks/units/ASP3231.html)** "Beyond Optical" component, 2008—23
+*   **[ASP3051 Relativity and Cosmology](http://monash.edu/pubs/handbooks/units/ASP3051.html)** lecturing & course coordination, 2014—24
+*   **[ASP3231 Observational Astronomy](http://www.monash.edu.au/pubs/handbooks/units/ASP3231.html)** "Beyond Optical" component, 2008—24
+*   **[ASP2011 Astronomy](http://monash.edu/pubs/2014handbooks/units/ASP2011.html)** Coordination & lecturing, 2024; "Celestial mechanics" component, 2023; "Measuring Stars" component & course coordination, 2014; "Measurement Techniques" component, 2007
 *   **[ASP2062 Introduction to Astrophysics](http://monash.edu/pubs/handbooks/units/ASP2062.html)** lecturing & course coordination, 2014—17
-*   **[ASP2011 Astronomy](http://monash.edu/pubs/2014handbooks/units/ASP2011.html)** "Celestial mechanics" component, 2023; "Measuring Stars" component & course coordination, 2014; "Measurement Techniques" component, 2007
 *   **M4222/1 Research Topics (Honours)** component "Statistics for X-ray Data Analysis", Semester 2, 2009 & Semester 1, 2011—14
 *   **M4331 Planetary Dynamics/Binary Stars (Honours)** component "X-ray Binaries", Semester 1, 2008
 
@@ -149,7 +149,7 @@ December
 *   Tse, K., D. K. Galloway, & A. Heger (2023). **Discovery of millihertz Quasi-Periodic Oscillations in the Low Mass X-Ray Binary XTE J1701–462 from a Search of the RXTE Legacy data set.** Submitted to MNRAS  
     \[ [arXiv:2309.05236](https://arxiv.org/abs/2309.05236) \]
 
-*   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Accepted by Nature.  
+*   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Nature 626, 737  
     \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923  
@@ -161,10 +161,10 @@ December
 *   Killestein, T. L., Mould, M., Steeghs, D., Casares, J., Galloway, D. K., Whelan, J. T.  (2023). **Precision Ephemerides for Gravitational-wave Searches - IV.  Corrected and refined ephemeris for Scorpius X-1.** MNRAS 520, 5317  
     \[ [OUP](https://doi.org/10.1093/mnras/stad366) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.5317K) | [arXiv:2302.00018](https://arxiv.org/abs/2302.00018) \]
 
-*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** Accepted by MNRAS  
+*   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** MNRAS 518, 752  
     \[ [OUP](https://doi.org/10.1093/mnras/stac3103) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..752M) | [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
 
-*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022). **Robust inference of neutron-star parameters from thermonuclear burst observations** Accepted by ApJS  
+*   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022). **Robust inference of neutron-star parameters from thermonuclear burst observations** ApJS 263, 30  
     \[ [IOP](https://iopscience.iop.org/article/10.3847/1538-4365/ac98c9) | [ADS](https://ui.adsabs.harvard.edu/abs/2022ApJS..263...30G) | [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
 
 *   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009  
@@ -208,4 +208,4 @@ December
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-8<sup>th</sup> January 2024</h5>
+13<sup>th</sup> June 2024</h5>
