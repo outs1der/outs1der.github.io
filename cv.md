@@ -54,11 +54,9 @@ RESEARCH INTERESTS
 
 My primary area of research interest is the nature and properties of neutron star binaries. A [neutron star](https://theconversation.com/explainer-what-is-a-neutron-star-29341) is the extreme product of a supernova explosion; the surface density, temperature, and magnetic field strength are all many orders of magnitude in excess of anything achievable on Earth. Accreting binaries, in which gas from a relatively normal stellar companion falls under gravity onto a neutron star, offer a unique window on some rich physics via satellite-based X-ray observations.
 
-My research involves observational studies of thermonuclear (type-I) bursts, merging compact objects, and accretion-powered millisecond pulsars using ground- and satellite-based observatories, including _[GOTO](http://www.goto-observatory.org)_, _[INTEGRAL](http://www.rssd.esa.int/Integral)_, _[XMM-Newton](http://xmm.vilspa.esa.es/)_, _[Chandra](http://cxc.harvard.edu)_, _[Swift](http://swift.gsfc.nasa.gov)_ and the _[Nuclear Spectroscopic Telescope Array (NuSTAR)](http://www.nustar.caltech.edu)_. The goals of these studies include improved understanding of the physical processes; measuring the rates of nuclear reactions (via collaboration with [Joint Institute for Nuclear Astrophysics Centre for the Evolution of the Elements, JINA-CEE)](http://jinaweb.org); and constraining the uncertain neutron star equation of state.
+My research involves observational studies of thermonuclear (type-I) bursts, merging compact objects, and accretion-powered millisecond pulsars using ground- and satellite-based observatories, including _[GOTO](http://www.goto-observatory.org)_, _[INTEGRAL](http://www.rssd.esa.int/Integral)_, _[XMM-Newton](http://xmm.vilspa.esa.es/)_, _[Chandra](http://cxc.harvard.edu)_, _[Swift](http://swift.gsfc.nasa.gov)_ and the _[Nuclear Spectroscopic Telescope Array (NuSTAR)](http://www.nustar.caltech.edu)_. The goals of these studies include improved understanding of the physical processes; measuring the rates of nuclear reactions (via collaborating members of the [International Research Network for Nuclear Astrophysics, IReNA)](https://www.irenaweb.org); and constraining the uncertain neutron star equation of state.
 
 I am the Monash PI of the [Gravitational-wave Optical Transient Observatory (GOTO)](http://goto-observatory.org/wiki) project, with the goal of building a network of optical telescopes to respond to gravitational wave detections by the [Advanced Laser Interferometric Gravitational-wave Observatory (aLIGO)](http://www.ligo.org) Accreting binaries are also candidate gravitational wave sources, which may be detectable by aLIGO. I carry out optical and X-ray observations to improve the measured system parameters, which can lead to more sensitive searches for gravitational waves.
-
-I am a CI of the [ARC Centre of Excellence for Gravitational Wave Discovery (OzGRav)](http://www.ozgrav.org), which aims to capitalise on the historic first detections of gravitational waves to understand the extreme physics of black holes and warped spacetime.
 
 I am broadly interested in astrophysical transient search and followup, and am a member of the [Variables and Slow Transients (VAST)](http://www.physics.usyd.edu.au/sifa/vast/index.php/Main/HomePage) survey science project for the [Australian Square Kilometre Array Pathfinder (ASKAP)](http://www.atnf.csiro.au/projects/askap).
 
@@ -82,11 +80,12 @@ EMPLOYMENT
 OTHER POSITIONS
 ---------------
 
-*   Chief investigator, [ARC Centre of Excellence for Gravitational Wave Discovery (OzGRav)](http://www.ozgrav.org), 2017—
-*   Affiliate, [Institute for Globally Distributed Open Research and Education (IGDORE)](http://igdore.org)
+*   Member,  [International Research Network for Nuclear Astrophysics, IReNA)](https://www.irenaweb.org), 2024-
+*   Affiliate, [Institute for Globally Distributed Open Research and Education (IGDORE)](http://igdore.org), 2021-
 *   Member of the [LSST](https://www.lsst.org) [Transients & Variable Star](https://lsst-tvssc.github.io) collaboration
 *   Member, [Astronomical Society of Australia](http://asa.astronomy.org.au)'s [Women in Astronomy (WiA)](http://asawomeninastronomy.org) and [Education & Public Outreach (EPOC)](https://asaepoc.wordpress.com) chapters; also member, [ASA Council](http://asa.astronomy.org.au/council.php#council), 2013&mdash;2017; vice-president 2015&mdash;2016 Nov
 *   Member, [International Astronomical Union](http://www.iau.org), 2003—
+*   Chief investigator, [ARC Centre of Excellence for Gravitational Wave Discovery (OzGRav)](http://www.ozgrav.org), 2017—24
 *   Senior Investigator, [Joint Institute for Nuclear Astrophysics - Center for the Evolution of the Elements](http://www.jinaweb.org) (JINA-CEE), 2014&mdash;21
 *   Science Lead, [eROSITA/AAL collaboration](https://astronomyaustralia.org.au/erosita-astronomy-australia-ltd.html), 2021&mdash;22
 *   Principal Investigator, Australian [LSST](https://www.lsst.org) MoU (via [AAL](http://www.astronomyaustralia.org.au)), 2018&mdash;21
@@ -99,7 +98,7 @@ OTHER POSITIONS
 TEACHING EXPERIENCE
 -------------------
 
-*   Current students:
+*   Current HDR students:
     *   Sergey Belkin (PhD with <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe Jim&eacute;nez-Ibarra</a> & <a href="https://kendallackley.github.io/">Kendall Ackley</a>, 2023&mdash;)
 *   Previous students:
     *   Ka Ho Tse (PhD with [Alexander Heger](http://2sn.org), 2020&mdash;23)
@@ -136,18 +135,16 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 116 publications in astrophysics (excluding [conference
-proceedings](conf.html)) since 1998, with 5164 citations (as of 15th
-December
-2023; source: [NASA ADS](http://www.adsabs.harvard.edu)). See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
+Total of 115 publications in astrophysics (excluding [conference
+proceedings](conf.html)) since 1998, with 5556 citations (as of
+9th August 2024;
+source: [NASA ADS](http://www.adsabs.harvard.edu)).
+See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
 *   Belkin, S. et al. including Galloway, D. K. (2024). **GRB 230911A: The First Discovery of a Fermi GRB Optical Counterpart with the Gravitational-wave Optical Transient Observer (GOTO)** RNAAS, 8, #1  
     \[ [IOP](https://iopscience.iop.org/article/10.3847/2515-5172/ad1876) \]
-
-*   Tse, K., D. K. Galloway, & A. Heger (2023). **Discovery of millihertz Quasi-Periodic Oscillations in the Low Mass X-Ray Binary XTE J1701–462 from a Search of the RXTE Legacy data set.** Submitted to MNRAS  
-    \[ [arXiv:2309.05236](https://arxiv.org/abs/2309.05236) \]
 
 *   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Nature 626, 737  
     \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
@@ -208,4 +205,4 @@ December
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-13<sup>th</sup> June 2024</h5>
+9<sup>th</sup> August 2024</h5>
