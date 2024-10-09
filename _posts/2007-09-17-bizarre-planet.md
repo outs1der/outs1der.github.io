@@ -1,7 +1,7 @@
 ---
 title: "NASA Astronomers Find Bizarre Planet-Mass Object Orbiting Neutron Star"
 category: pulsars
-layout: null
+layout: post
 time: 09:49
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

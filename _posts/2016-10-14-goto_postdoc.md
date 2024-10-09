@@ -1,12 +1,12 @@
 ---
 title: "Seeking postdoctoral associates in gravitational wave astronomy"
 category: opportunities
-layout: null
+layout: post
 time: 01:31
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/goto_small.jpg" width="100" align="left">
+<img src="/images/goto_small.jpg" width="100" align="left">
 Following the approval of our
 <a href="http://ozgrav.org">Centre for Excellence in Gravitational-wave Astronomy, OzGRav</a>,
 Monash has several 

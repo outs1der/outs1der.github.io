@@ -1,7 +1,7 @@
 ---
 title: "Hawaii - Sydney"
 category: meetings
-layout: null
+layout: post
 time: 00:43
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

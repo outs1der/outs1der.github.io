@@ -1,12 +1,12 @@
 ---
 title: "GOTO La Palma site inauguration"
 category: press
-layout: null
+layout: post
 time: 04:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<a href="https://www.space.com/37412-optical-telescope-gravitational-wave-sources.html"><img src="images/GOTO_ORM_CielosLaPalma_030717_0119.jpg" width="100" align="left"></a>
+<a href="https://www.space.com/37412-optical-telescope-gravitational-wave-sources.html"><img src="/images/GOTO_ORM_CielosLaPalma_030717_0119.jpg" width="100" align="left"></a>
 This month saw the official inauguration of Warwick's La Palma observing site,
 now hosting the
 <a href="http://goto-observatory.org">Gravitational-wave Optical Transient Observer</a> (GOTO) instrument.

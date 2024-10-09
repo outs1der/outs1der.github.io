@@ -1,12 +1,12 @@
 ---
 title: "The last outburst of a millisecond pulsar?"
 category: pulsars
-layout: null
+layout: post
 time: 21:09
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/outburst2015.jpg" width="100" align="left">
+<img src="/images/outburst2015.jpg" width="100" align="left">
 The 599&nbsp;Hz millisecond pulsar IGR&nbsp;J00291+5934 is a source I've been 
 studying for more than a decade, having been involved in the 
 <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2005ApJ...622L..45G">discovery</a> as well as observation of every transient outburst since.

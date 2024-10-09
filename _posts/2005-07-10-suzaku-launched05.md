@@ -1,7 +1,7 @@
 ---
 title: "Suzaku (aka ASTRO-EII) launched"
 category: missions
-layout: null
+layout: post
 time: 16:18
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

@@ -1,13 +1,13 @@
 ---
 title: "40 years of X-ray bursts: Extreme explosions in dense environments"
 category: meetings
-layout: null
+layout: post
 time: 19:02
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!---- Begin .post ---->
-<img src="images/esac_meeting_2015_attendees.jpg" width="100" align="left"></a>
+<img src="/images/esac_meeting_2015_attendees.jpg" width="100" align="left"></a>
 This June the terrific people at ESAC hosted a 3-day
 <a href="http://www.sciops.esa.int/index.php?project=CONF2015&page=XRAYBURST2015">workshop</a>
 to celebrate the 40th anniversary of the discovery of X-ray bursts.

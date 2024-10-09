@@ -1,12 +1,12 @@
 ---
 title: "ARC Centre of Excellence for Gravitational Wave Discovery approved"
 category: gravitational waves
-layout: null
+layout: post
 time: 02:33
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-      <img src="images/uluru_ligo.jpg" width="100" align="left">
+      <img src="/images/uluru_ligo.jpg" width="100" align="left">
 The <a href="http://arc.gov.au">Australian Research Council</a> announced
 this morning the outcomes of the 
 <a href="http://www.arc.gov.au/arc-centres-excellence">Centres of Excellence</a>

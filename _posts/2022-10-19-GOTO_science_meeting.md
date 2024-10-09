@@ -1,11 +1,11 @@
 ---
 title: "GOTO science meeting"
 category: meetings
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/collaborationxcf.png" width="100" align="left">
+<img src="/images/collaborationxcf.png" width="100" align="left">
 What with one thing or another, it's been a while since we assembled (virtually or 
 IRL) our <a href="http://goto-observatory.org">GOTO</a> collaboration team to
 discuss science. So this October we assembled the team for a 3-day meeting covering

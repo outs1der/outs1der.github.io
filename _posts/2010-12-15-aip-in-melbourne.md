@@ -1,14 +1,14 @@
 ---
 title: "AIP congress 2010"
 category: gravitational waves
-layout: null
+layout: post
 time: 03:52
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!-- Wednesday, Dec 15, 2010 1:52 PM-->
   <!---- Begin .post ---->
-<img src="images/aiplogo.jpg" width="100" align="left">
+<img src="/images/aiplogo.jpg" width="100" align="left">
 The 19<sup>th</sup> Australian Institute of Physics Congress was held last week
 right here in Melbourne, so of course I couldn't miss it. I chaired and 
 <a href="/~dgallow/docs/AIP congress Dec 2010.pdf">presented</a> in the

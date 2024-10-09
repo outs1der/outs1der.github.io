@@ -1,11 +1,11 @@
 ---
 title: "Ohio University, Athens OH"
 category: visits
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/20220516_092727.jpg" width="100" align="left">
+<img src="/images/20220516_092727.jpg" width="100" align="left">
 My first overseas work trip in more than 2 years started off with a visit
 to <a href="https://www.ohio.edu">Ohio U.</a> to try to pick up some
 neglected collaborative projects with <a

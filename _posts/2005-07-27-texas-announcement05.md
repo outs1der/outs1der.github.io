@@ -1,7 +1,7 @@
 ---
 title: "Texas in Australia 2006"
 category: meetings
-layout: null
+layout: post
 time: 13:54
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

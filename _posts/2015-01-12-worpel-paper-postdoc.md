@@ -1,12 +1,12 @@
 ---
 title: "Hauke's second thesis paper and postdoctoral position"
 category: postgrads
-layout: null
+layout: post
 time: 03:16
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/hauke_mugshot.gif" width="100" align="left">
+<img src="/images/hauke_mugshot.gif" width="100" align="left">
 I am proud and pleased to report 
 Since the 1970s the standard approach for analysing the X-ray spectrum emitted
 during thermonuclear bursts included subtracting off the persistent spectrum

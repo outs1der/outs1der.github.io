@@ -1,11 +1,11 @@
 ---
 title: "Welcome Felipe"
 category: personnel
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/felipe.jpg" width="100" align="left">
+<img src="/images/felipe.jpg" width="100" align="left">
 I'm delighted to welcome a new postdoctoral associate to the Monash 
 <a href="http://goto-observatory.org">GOTO</a> team, 
 <a href="https://jimenez-ibarra.wixsite.com/felipeji">Felipe

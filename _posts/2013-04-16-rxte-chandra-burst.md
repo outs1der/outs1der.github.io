@@ -1,12 +1,12 @@
 ---
 title: "Double vision"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 14:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/1808burst.gif" width="100" align="left">
+<img src="/images/1808burst.gif" width="100" align="left">
 Back in November 2011, the 401-Hz millisecond pulsar SAX&nbsp;J1808.4-3658
 went into another of it's regular (every ~3 yr) outbursts. 
 SRON's <a href="http://www.sron.nl/~jeanz">Jean in 't Zand</a> had a 

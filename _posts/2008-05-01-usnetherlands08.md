@@ -1,7 +1,7 @@
 ---
 title: "US/Netherlands tour"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 03:25
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

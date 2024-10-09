@@ -1,13 +1,13 @@
 ---
 title: "Australian Astronomy Decadal Plan 2016&mdash;25"
 category: meetings
-layout: null
+layout: post
 time: 04:58
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!---- Begin .post ---->
-<img src="images/road_sign.jpg" width="100" align="left"></a>
+<img src="/images/road_sign.jpg" width="100" align="left"></a>
 Every ten years the Australian astronomy community collaborates to produce
 a plan covering the next decade. The 
 <a href="http://science.org.au/natcoms/nc-astronomy.html">National Committee

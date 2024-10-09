@@ -1,12 +1,12 @@
 ---
 title: "Influence of accretion geometry on bursts"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:53
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/kajava_fig4.jpg" width="100" align="left">
+<img src="/images/kajava_fig4.jpg" width="100" align="left">
 One of the interesting outcomes of our 
 <a href="http://www.issibern.ch/teams/thermo_burst">ISSI international team
 on thermonuclear bursts</a> was the work by

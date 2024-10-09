@@ -1,13 +1,13 @@
 ---
 title: "Second meeting of new ISSI burst team @ Monash"
 category: meetings
-layout: null
+layout: post
 time: 13:37
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!---- Begin .post ---->
-<img src="images/issi-south.jpg" width="100" align="left"></a>
+<img src="/images/issi-south.jpg" width="100" align="left"></a>
 Our 
 <a href="http://www.issibern.ch">International Space Science Institute (ISSI)</a>
 team on 

@@ -1,12 +1,12 @@
 ---
 title: "Analysing the cooling tails of thermonuclear bursts"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 08:07
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/power_law_index.jpg" width="100" align="left">
+<img src="/images/power_law_index.jpg" width="100" align="left">
 When the upper layer of an accreting neutron star experiences a thermonuclear
 runaway of helium and hydrogen, it exhibits an X-ray burst with a
 cool-down phase of typically 1 minute.

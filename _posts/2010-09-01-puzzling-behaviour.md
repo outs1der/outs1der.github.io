@@ -1,14 +1,14 @@
 ---
 title: "Puzzling behaviour in IGR&nbsp;J17473-2721"
 category: transients
-layout: null
+layout: post
 time: 07:43
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!-- Wednesday, September 1, 2010 3:43 PM-->
   <!---- Begin .post ---->
-<img src="images/star_nuclear_exp.jpg" width="100" align="left"> A
+<img src="/images/star_nuclear_exp.jpg" width="100" align="left"> A
 bunch of us have been working on the X-ray data from a quite remarkable
 transient, IGR&nbsp;J17473-2721, which went into a 6-month long outburst
 beginning in 2008. The source went through some dramatic changes in the

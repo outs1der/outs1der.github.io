@@ -1,7 +1,7 @@
 ---
 title: "Compact Stellar X-ray Sources"
 category: reference
-layout: null
+layout: post
 time: 19:44
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

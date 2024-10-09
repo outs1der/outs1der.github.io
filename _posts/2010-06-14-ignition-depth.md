@@ -1,14 +1,14 @@
 ---
 title: "Ignition depth for 4U 1728-34 bursts"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 07:45
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!-- Monday, June 14, 2010 3:45 PM-->
   <!---- Begin .post ---->
-<img src="images/boiling.jpeg" width="127" align="left">
+<img src="/images/boiling.jpeg" width="127" align="left">
 <a href="http://www.physics.monash.edu.au/people/research/misanovic.html">Zdenka</a>,
 Randy Cooper and I just completed a study of He-rich bursts from
 4U&nbsp;1728-34, which can occur as frequently as once every 2 hours. This

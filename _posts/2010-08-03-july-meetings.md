@@ -1,7 +1,7 @@
 ---
 title: "July is meeting month"
 category: meetings
-layout: null
+layout: post
 time: 04:21
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

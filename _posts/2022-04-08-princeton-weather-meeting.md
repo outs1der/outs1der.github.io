@@ -1,11 +1,11 @@
 ---
 title: "Princeton GI/PCTS Weather and Climate on Neutron Stars meeting"
 category: meetings
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/Cumming talk at 11.34.55 pm.png" width="100" align="left">
+<img src="/images/Cumming talk at 11.34.55 pm.png" width="100" align="left">
 Although the time difference made it difficult to attend the meeting
 remotely, I caught a few presentations of the <a
 href="https://phy.princeton.edu/events/gipcts-weather-and-climate-neutron-stars-connecting-surface-flow-theory-and-observations">Princeton

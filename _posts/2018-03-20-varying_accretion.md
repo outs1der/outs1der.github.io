@@ -1,12 +1,12 @@
 ---
 title: "Simulating X-ray bursts during a transient accretion event"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/johnston18.png" width="100" align="left">
+<img src="/images/johnston18.png" width="100" align="left">
 </p>
 <p>Thermonuclear burst modelling has to date focused on stable accretion rates,
 but bursts are also observed during episodes of transient accretion.  The

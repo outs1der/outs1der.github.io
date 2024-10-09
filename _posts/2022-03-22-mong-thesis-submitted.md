@@ -1,11 +1,11 @@
 ---
 title: "Yik Lun (Travis) Mong thesis submission"
 category: postgrads
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/mong-travis-ozgrav19-web.jpg" width="100" align="left">
+<img src="/images/mong-travis-ozgrav19-web.jpg" width="100" align="left">
 My warmest congratulations to <a
 href="https://www.linkedin.com/in/travis-mong-4709631b0">Yik Lun (Travis)
 Mong</a>, who submitted his

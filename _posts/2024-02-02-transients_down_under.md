@@ -1,11 +1,11 @@
 ---
 title: "GOTO at Transients Down Under"
 category: meetings
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/tdu.png" width="100" align="left">
+<img src="/images/tdu.png" width="100" align="left">
 This week I attended the 
 <a href="https://transientsdownunder.github.io">Transients Down Under</a>
 meeting hosted by 

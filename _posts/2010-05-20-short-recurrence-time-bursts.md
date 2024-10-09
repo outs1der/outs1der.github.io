@@ -1,14 +1,14 @@
 ---
 title: "Short recurrence time bursts"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 03:30
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!-- Thursday, May 20, 2010 11:30 AM-->
   <!---- Begin .post ---->
-<img src="images/swt.gif" width="100" align="left">
+<img src="/images/swt.gif" width="100" align="left">
 Laurens has just posted a nice paper looking at short recurrence time
 thermonuclear (type-I) bursts as seen by <em>RXTE</em> and
 <em>BeppoSAX</em>. These bursts occur after waiting times of as short as a

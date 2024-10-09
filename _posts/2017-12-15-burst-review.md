@@ -1,12 +1,12 @@
 ---
 title: "Thermonuclear bursts in the spotlight"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/burst_theory.jpeg" width="100" align="left">
+<img src="/images/burst_theory.jpeg" width="100" align="left">
 </p>
 <p>It's been a few years now since a review of thermonuclear bursts came out,
 so a little while ago <a href="http://www.tomasobelloni.it">Tomaso Belloni</a>

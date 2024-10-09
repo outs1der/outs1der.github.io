@@ -1,12 +1,12 @@
 ---
 title: "Understanding burst oscillations"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/burstosc.jpg" width="100" align="left">
+<img src="/images/burstosc.jpg" width="100" align="left">
 Some thermonuclear burst sources exhibit temporary "burst oscillations", 
 periodic variations in the X-ray intensity at frequencies characteristic
 of each source. It has been shown that these oscillaions trace the neutron 

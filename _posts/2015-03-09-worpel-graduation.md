@@ -1,12 +1,12 @@
 ---
 title: "Hauke's thesis accepted; postdoctoral position"
 category: postgrads
-layout: null
+layout: post
 time: 05:33
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/hauke_mugshot.jpg" width="100" align="left">
+<img src="/images/hauke_mugshot.jpg" width="100" align="left">
 I am proud and pleased to report 
 the award of 
 <a href="http://users.monash.edu.au/~hworpel">Hauke W&ouml;rpel</a>'s 

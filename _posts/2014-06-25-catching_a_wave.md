@@ -1,7 +1,7 @@
 ---
 title: "Catching a gravitational wave"
 category: press
-layout: null
+layout: post
 time: 16:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

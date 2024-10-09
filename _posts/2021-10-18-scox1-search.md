@@ -1,13 +1,13 @@
 ---
 title: "Searching for X-ray pulsations from Sco X-1"
 category: gravitational waves
-layout: null
+layout: post
 time: 03:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
   <!---- Begin .post ---->
-<a href="http://chandra.harvard.edu/xray_sources/sco/sco.html" title="The Story of Sco X-1"><img src="images/scox1-galaudage.png" width="100" align="left" alt="Plot image from the paper"></a>
+<a href="http://chandra.harvard.edu/xray_sources/sco/sco.html" title="The Story of Sco X-1"><img src="/images/scox1-galaudage.png" width="100" align="left" alt="Plot image from the paper"></a>
 Bright X-ray binaries are thought to be promising candidates for detecting
 <em>continuous</em> gravitational waves, because it is possible that the
 spin-up torques provided by accretion are offset by gravitational wave 

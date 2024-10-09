@@ -1,12 +1,12 @@
 ---
 title: "Cracking the code of burst rates"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 03:41
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/burst_rate.jpeg" width="100" align="left">
+<img src="/images/burst_rate.jpeg" width="100" align="left">
 It's been a long-standing mystery, how for some burst sources, the burst rate 
 <em>decreases</em> even as the accretion rate <em>increases</em>. Theory
 and numerical models both predict that as you dial up the accretion rate,

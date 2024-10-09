@@ -1,11 +1,11 @@
 ---
 title: "GOTO-South telescope deployment"
 category: hardware
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/goto_north_south.png" width="100" align="left">
+<img src="/images/goto_north_south.png" width="100" align="left">
 One of the most exciting events of my entire career was seeing the new
 <a href="http://goto-observatory.org">GOTO network</a> instruments
 deployed at 

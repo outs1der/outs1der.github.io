@@ -1,12 +1,12 @@
 ---
 title: "Reference bursts for model comparisons"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:16
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/gal17_fig3.jpg" width="100" align="left">
+<img src="/images/gal17_fig3.jpg" width="100" align="left">
 Thermonuclear (type-I) X-ray bursts arise on the surface of neutron stars in
 binary systems, and offer a powerful probe of the neutron star environment
 as well as the nuclear reactions that power them.

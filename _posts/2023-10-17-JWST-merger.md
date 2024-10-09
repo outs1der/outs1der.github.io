@@ -1,11 +1,11 @@
 ---
 title: "Heavy element production in a compact object merger"
 category: transients
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/GRB230307A.png" width="100" align="left">
+<img src="/images/GRB230307A.png" width="100" align="left">
 GRB 230307A was an exceptionally bright long-duration gamma-ray burst
 first detected by the <a href="https://fermi.gsfc.nasa.gov"><em>Fermi</em></a>
 Gamma-ray Burst Monitor on 7 March.  Such events are usually understood to

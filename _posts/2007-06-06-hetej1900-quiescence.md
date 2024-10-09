@@ -1,7 +1,7 @@
 ---
 title: "HETE J1900.1-2455 is returning to quiescence"
 category: pulsars
-layout: null
+layout: post
 time: 05:08
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

@@ -1,7 +1,7 @@
 ---
 title: "Netherlands visit"
 category: visits
-layout: null
+layout: post
 time: 04:13
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

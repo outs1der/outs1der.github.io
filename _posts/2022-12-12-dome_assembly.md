@@ -1,11 +1,11 @@
 ---
 title: "Progress on the GOTO-South site"
 category: hardware
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/IMG_5863.JPG" width="100" align="left">
+<img src="/images/IMG_5863.JPG" width="100" align="left">
 After significant delays throughout the second half of 2022, the concrete
 slab for the new GOTO-South site at 
 <a href="https://www.sidingspring.com.au">Siding Spring Observatory</a>

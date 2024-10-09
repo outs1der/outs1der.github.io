@@ -1,11 +1,11 @@
 ---
 title: "First GRB optical counterpart with GOTO"
 category: transients
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/grb230911a.png" width="100" align="left">
+<img src="/images/grb230911a.png" width="100" align="left">
 Gamma-ray bursts, particularly poorly-localised ones, are a secondary
 science priority for our <a href="http://goto-observatory.org">GOTO</a>
 network of telescopes, after binary neutron-star mergers. While we've

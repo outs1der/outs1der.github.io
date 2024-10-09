@@ -1,7 +1,7 @@
 ---
 title: "Going, going, almost gone"
 category: pulsars
-layout: null
+layout: post
 time: 07:05
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
@@ -11,7 +11,7 @@ time: 07:05
 <!-- Post timestamp Friday, May 24, 2002 3:05 PM -->
 <!-- touch -t 200205241505 -->
 <!-- Labels: 2002, papers, press, pulsars -->
-      <img src="images/pulsarsm.jpg" align="left">
+      <img src="/images/pulsarsm.jpg" align="left">
 MIT scientists have found a pulsar in a binary system that has all but completely whittled away its companion star, leaving this companion only about 10 times more massive than Jupiter.<p>
 <em>Read the <a href="http://arXiv.org/abs/astro-ph/0206493">paper</a>
 <a href="http://arXiv.org/abs/astro-ph/0208543">(s)</a> (ApJ 576, L137; ApJ, 587, 754) or the 

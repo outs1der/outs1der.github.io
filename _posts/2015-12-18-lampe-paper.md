@@ -1,12 +1,12 @@
 ---
 title: "Kepler predictions for thermonuclear bursts"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 02:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/lampe16_fig2.jpg" width="100" align="left">
+<img src="/images/lampe16_fig2.jpg" width="100" align="left">
 Monash researcher
 <a href="http://2sn.org">Alexander Heger</a> has been for many years exploring
 the dependence of thermonuclear burst properties on the source conditions,

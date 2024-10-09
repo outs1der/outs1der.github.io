@@ -1,11 +1,11 @@
 ---
 title: "June is meeting month"
 category: meetings
-layout: null
+layout: post
 time: 12:00
 ---
 <p>
-<img src="images/vasto_view.jpg" width="100" align="left">
+<img src="/images/vasto_view.jpg" width="100" align="left">
 Being based for the moment in EU I took the advantage of attending a
 couple of appealing topical meetings this June. First up was the 
 <a href="http://xrayuniverse.esa.int">X-ray Universe '23</a> meeting in

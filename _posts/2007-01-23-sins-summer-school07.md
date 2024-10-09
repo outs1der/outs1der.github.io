@@ -1,7 +1,7 @@
 ---
 title: "SINS summer school"
 category: meetings
-layout: null
+layout: post
 time: 07:19
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->

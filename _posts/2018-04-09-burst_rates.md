@@ -1,12 +1,12 @@
 ---
 title: "The influence of stellar spin on thermonuclear runaways"
 category: thermonuclear bursts
-layout: null
+layout: post
 time: 04:00
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<a href="images/fig2.png""><img src="images/fig2.png" width="100" align="left"></a>
+<a href="images/fig2.png""><img src="/images/fig2.png" width="100" align="left"></a>
 </p>
 <p>Many burst sources exhibit inexplicable decreases in burst rate even as the 
 accretion rate increases. However, not all burst sources show the same type

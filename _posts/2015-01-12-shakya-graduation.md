@@ -1,12 +1,12 @@
 ---
 title: "Shakya's thesis accepted"
 category: postgrads
-layout: null
+layout: post
 time: 03:34
 ---
 <!-- header generated from blosxom format post; make_header.pl 23.1.2022 -->
 <p>
-<img src="images/article_Graduation_051412.jpg" width="100" align="left">
+<img src="/images/article_Graduation_051412.jpg" width="100" align="left">
 I am pleased and proud to report that the award of Sammanani (Shakya)
 Premachandra's PhD degree was approved last week. Shakya's thesis, entitled 
 "Precision ephemerides of neutron star binaries to assist gravitational wave
