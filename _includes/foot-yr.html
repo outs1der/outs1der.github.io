@@ -1,0 +1,14 @@
+
+</div></div>
+
+<div id="sidebar">
+  
+<div id="sidebar-block">
+
+<center>
+{% for year in postsByYear %}
+<a href="#{{ year.name }}">{{ year.name }}</a> ({{ year.size }} posts) <br>
+{% endfor %}
+</center>
+
+</div></div>

@@ -2,6 +2,8 @@
 
 {% assign postsByYear =
     site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+<div class="post">
 {% for year in postsByYear %}
   <h1><a name="{{ year.name }}">{{ year.name }}</a></h1>
     <ul>
@@ -11,5 +13,6 @@
     </ul>
   <em><a href="/">Back to the index</a></em>
 {% endfor %}
+</div>
 
-{% include foot.html %}
+{% include foot-yr.html %}
