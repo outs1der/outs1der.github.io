@@ -232,7 +232,7 @@ X-ray Pulsars" workshop, 14-18 April 2008, Amsterdam, NL.<br>
   serendipitous RXTE observation of the strong field X-ray pulsar
   GX 1+4</b>, #38.07, HEAD/AAS meeting #31, April 1999,
   Charleston SC
-
+</li>
 </ul><p><hr></p><ul>
 
   <LI>Galloway D.K., Wolanski E., King B. (1996).
