@@ -135,19 +135,28 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 115 publications in astrophysics (excluding [conference
-proceedings](conf.html)) since 1998, with 5556 citations (as of
-9th August 2024;
+Total of 118 publications in astrophysics (excluding [conference
+proceedings](conf.html)) since 1998, with 5715 citations (as of
+November 2024;
 source: [NASA ADS](http://www.adsabs.harvard.edu)).
 See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhYAAAAJ) page
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
+*   Kini, Y., Salmi, T.,  Vinciguerra, et al. including Galloway, D.K. (2024). **Constraining the properties of the thermonuclear burst oscillation source XTE J1814-338 through pulse profile modelling.** MNRAS, accepted  
+    \[ [OUP](https://doi.org/10.1093/mnras/stae2398) | [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2330K) | [arXiv:2405.10717](https://arxiv.org/abs/2405.10717) \]
+
+*   Galloway, D.K., Goodwin, A. J., Hilder, T., Waterson, L., Cup&aacute;k, M. (2024). **Inferring system parameters from the bursts of the accretion-powered pulsar IGR J17498-2921.** MNRAS, 535, 647  
+    \[ [OUP](https://doi.org/10.1093/mnras/stae2422) | [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240316471G) | [arXiv:2403.16471](https://arxiv.org/abs/2403.16471) \]
+
+*   Killestein, T. L., Kelsey, L., Wickens, E., et al. including Galloway, D. K. (2024). **Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics.** MNRAS 533, 2113  
+    \[ [OUP](https://academic.oup.com/mnras/article/533/2/2113/7735340) | [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.2113K) | [arXiv:2406.02334](https://arxiv.org/abs/2406.02334) \]
+
 *   Belkin, S. et al. including Galloway, D. K. (2024). **GRB 230911A: The First Discovery of a Fermi GRB Optical Counterpart with the Gravitational-wave Optical Transient Observer (GOTO)** RNAAS, 8, #1  
-    \[ [IOP](https://iopscience.iop.org/article/10.3847/2515-5172/ad1876) \]
+    \[ [IOP](https://iopscience.iop.org/article/10.3847/2515-5172/ad1876) | [ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8....6B) \]
 
 *   Levan, A. et al. including Galloway, D. K. **JWST detection of heavy neutron capture elements in a compact object merger** Nature 626, 737  
-    \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
+    \[ [Nature](https://www.nature.com/articles/s41586-023-06759-1) | [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230702098L) | [arXiv:2307.02098](https://arxiv.org/abs/2307.02098) \]
 
 *   Patel, M. et al. for the GOTO collaboration including Galloway, D. K.  (2023). **GRB 201015A and the nature of low-luminosity soft gamma-ray bursts.** MNRAS  523(4), 4923  
     \[ [OUP](https://doi.org/10.1093/mnras/stad1703) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4923P) | [arXiv:2305.14491](https://arxiv.org/abs/2305.14491) \]
