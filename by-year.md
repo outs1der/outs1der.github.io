@@ -8,7 +8,7 @@
   <h1><a name="{{ year.name }}">{{ year.name }}</a></h1>
     <ul>
       {% for post in year.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%D" }}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%-d %B" }}</li>
       {% endfor %}
     </ul>
   <em><a href="/">Back to the index</a></em>

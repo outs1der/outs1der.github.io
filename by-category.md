@@ -8,7 +8,7 @@
   <h1><a name="{{ category.name }}">{{ category.name }}</a></h1>
     <ul>
       {% for post in category.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%D" }}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%-d/%-m/%Y" }}</li>
       {% endfor %}
     </ul>
   <p><em><a href="/">Back to the index</a></em></p>
