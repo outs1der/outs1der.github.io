@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: "Curriculum Vitæ - Duncan Galloway"
 ---
 
@@ -46,8 +46,8 @@ EDUCATION
 ---------
 
 *   PhD, University of Tasmania, 2001.
-*   Bachelor of Science with First Class Honours, University of Tasmania, 1991.
 *   Graduate Certificate in Information Technology, Monash University, 2015
+*   Bachelor of Science with First Class Honours, University of Tasmania, 1991.
 
 RESEARCH INTERESTS
 ------------------
@@ -118,8 +118,10 @@ TEACHING EXPERIENCE
 *   **[ASP3231 Observational Astronomy](http://www.monash.edu.au/pubs/handbooks/units/ASP3231.html)** "Beyond Optical" component, 2008—24
 *   **[ASP2011 Astronomy](http://monash.edu/pubs/2014handbooks/units/ASP2011.html)** Coordination & lecturing, 2024; "Celestial mechanics" component, 2023; "Measuring Stars" component & course coordination, 2014; "Measurement Techniques" component, 2007
 *   **[ASP2062 Introduction to Astrophysics](http://monash.edu/pubs/handbooks/units/ASP2062.html)** lecturing & course coordination, 2014—17
-*   **M4222/1 Research Topics (Honours)** component "Statistics for X-ray Data Analysis", Semester 2, 2009 & Semester 1, 2011—14
-*   **M4331 Planetary Dynamics/Binary Stars (Honours)** component "X-ray Binaries", Semester 1, 2008
+<!-- omit these ancient history -->
+<!--   **M4222/1 Research Topics (Honours)** component "Statistics for X-ray Data Analysis", Semester 2, 2009 & Semester 1, 2011—14 -->
+<!--   **M4331 Planetary Dynamics/Binary Stars (Honours)** component "X-ray Binaries", Semester 1, 2008 -->
+
 AWARDS & HONORS
 ---------------
 
