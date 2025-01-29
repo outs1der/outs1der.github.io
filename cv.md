@@ -120,7 +120,6 @@ TEACHING EXPERIENCE
 *   **[ASP2062 Introduction to Astrophysics](http://monash.edu/pubs/handbooks/units/ASP2062.html)** lecturing & course coordination, 2014—17
 *   **M4222/1 Research Topics (Honours)** component "Statistics for X-ray Data Analysis", Semester 2, 2009 & Semester 1, 2011—14
 *   **M4331 Planetary Dynamics/Binary Stars (Honours)** component "X-ray Binaries", Semester 1, 2008
-
 AWARDS & HONORS
 ---------------
 
@@ -135,7 +134,7 @@ AWARDS & HONORS
 RECENT PUBLICATIONS
 -------------------
 
-Total of 118 publications in astrophysics (excluding [conference
+Total of 125 publications in astrophysics (excluding [conference
 proceedings](conf.html)) since 1998, with 5715 citations (as of
 November 2024;
 source: [NASA ADS](http://www.adsabs.harvard.edu)).
@@ -143,7 +142,25 @@ See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhY
 
 [//]: # (You need two spaces at the end of the line to trigger a line break)
 
-*   Kini, Y., Salmi, T.,  Vinciguerra, et al. including Galloway, D.K. (2024). **Constraining the properties of the thermonuclear burst oscillation source XTE J1814-338 through pulse profile modelling.** MNRAS, accepted  
+*   Killestein, T.L., Ramsay, G., Kennedy, M., including Galloway, D.K.  (2025). **GOTO065054+593624: a peculiar dwarf nova identified in real time via Kilonova Seekers.** A&A, submitted  
+    \[ [arXiv:2501.11524](https://arxiv.org/abs/2501.11524) \]
+
+*   Pursiainen, M.,  Killestein, T. L.,  Kuncarayakti, H. et al. including Galloway, D.K. (2025). **Optical evolution of AT 2024wpp: the high-velocity outflows in Cow-like transients are consistent with high spherical symmetry.** MNRAS, submitted  
+    \[ [arXiv:2411.03272](https://arxiv.org/abs/2411.03272) \]
+
+*   Fu, T., Zhaosheng, L., Pan, Y. et al, including Galloway, D.K. (2025).  **A comprehensive study of type I (thermonuclear) bursts in the new transient SRGA J144459.2&mdash;604207.** ApJ, accepted  
+    \[ [arXiv:2412.05779](https://arxiv.org/abs/2412.05779) \]
+
+*   You, Z-Q., Xingjiang, Z., Liu, X., et al. including Galloway, D.K.  (2025). **The birth mass function of neutron stars.** Nature Astronomy, accepted  
+    \[ [arXiv:2412.05524](https://arxiv.org/abs/2412.05524) \]
+
+*   Warwick, B., Lyman, J., Pursiainen, M. et al, including Galloway, D.K. (2025). **SN 2023tsz: a helium-interaction-driven supernova in a very low-mass galaxy.** MNRAS, 536, 3588  
+    \[ [OUP](https://doi.org/10.1093/mnras/stae2784) | [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.3588W) | [arXiv:2409.14147](https://arxiv.org/abs/2409.14147) \]
+
+*   Kongsathitporn, N., Supratak, A., Noysena, K. et al. including Galloway, D.K. (2024). **Leveraging Movement Representation from Contrastive Learning for Asteroid Detection.** PASP 136, #1234507   
+    \[ [ADS](https://ui.adsabs.harvard.edu/abs/2024PASP..136l4507K) | [IOP](https://iopscience.iop.org/article/10.1088/1538-3873/ad8c83) \]
+
+*   Kini, Y., Salmi, T.,  Vinciguerra, et al. including Galloway, D.K.  (2024). **Constraining the properties of the thermonuclear burst oscillation source XTE J1814-338 through pulse profile modelling.** MNRAS, 535, 1  
     \[ [OUP](https://doi.org/10.1093/mnras/stae2398) | [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2330K) | [arXiv:2405.10717](https://arxiv.org/abs/2405.10717) \]
 
 *   Galloway, D.K., Goodwin, A. J., Hilder, T., Waterson, L., Cup&aacute;k, M. (2024). **Inferring system parameters from the bursts of the accretion-powered pulsar IGR J17498-2921.** MNRAS, 535, 647  
@@ -170,48 +187,24 @@ See also my [Google scholar](http://scholar.google.com.au/citations?user=ARoBNhY
 *   Mong, Y. -L., Ackley, K., Killestein, T. L., Galloway, D. K. for the GOTO collaboration (2022). **Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map** MNRAS 518, 752  
     \[ [OUP](https://doi.org/10.1093/mnras/stac3103) | [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..752M) | [arXiv:2209.06375](https://arxiv.org/abs/2209.06375) \]
 
+*   Schatz, H.  search by orcid ;  Becerril Reyes, A. D. ;  Best, A. et al. including Galloway, D.K. (2022). **Horizons: nuclear astrophysics in the 2020s and beyond.** J. Phys. G. 49(11), #110502  
+    \[ [IOP](https://iopscience.iop.org/article/10.1088/1361-6471/ac8890) | [ADS](https://ui.adsabs.harvard.edu/abs/2022JPhG...49k0502S) | [arXiv:2205.07996](https://arxiv.org/abs/2205.07996) \]
+
 *   Galloway, D. K., Johnston, Z., Goodwin, A. J., He, C.-C. (2022). **Robust inference of neutron-star parameters from thermonuclear burst observations** ApJS 263, 30  
     \[ [IOP](https://iopscience.iop.org/article/10.3847/1538-4365/ac98c9) | [ADS](https://ui.adsabs.harvard.edu/abs/2022ApJS..263...30G) | [arXiv:2210.03598](https://arxiv.org/abs/2210.03598) \]
 
 *   Duffy, C., Ramsay, G., et al. including Galloway, D. K. (2022). **The return of the spin period in DW Cnc and evidence of new high state outbursts.** MNRAS 510(1), 1002-1009  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3402) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1002D) | [arXiv:2111.10416](https://arxiv.org/abs/2111.10416) \]
 
-*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2021). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422  
+*   Steeghs, D., Galloway, D.K. for the GOTO Collaboration (2022). **The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science.** MNRAS 511(2), 2405-2422  
     \[ [OUP](https://doi.org/10.1093/mnras/stac013) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2405S) | [arXiv:2110.05539](https://arxiv.org/abs/2110.05539) \]
     
-*   Galaudage, S., Wette, K., Galloway, D. K., Messenger C. (2021). **Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches.** MNRAS 509(2), 1745  
+*   Galaudage, S., Wette, K., Galloway, D. K., Messenger C. (2022). **Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches.** MNRAS 509(2), 1745  
     \[ [OUP](https://doi.org/10.1093/mnras/stab3095) | [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1745G) | [arXiv:2105.13803](https://arxiv.org/abs/2105.13803) \]
-    
-*   Mong, Y. -L., Ackley, K., Galloway, D. K. for the GOTO collaboration (2021). **Searching For Fermi GRB Optical Counterparts With The Prototype Gravitational-Wave Optical Transient Observer (GOTO).** MNRAS 507(4), 5463—5476  
-    \[ [OUP](https://doi.org/10.1093/mnras/stab2499) | [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.5463M) | [arXiv:2108.11802](https://arxiv.org/abs/2108.11802) \]
-    
-*   Burhanudin, U. F. et al. for the GOTO collaboration including Galloway, D. K. (2021). **Light curve classification with recurrent neural networks for GOTO: dealing with imbalanced data.** MNRAS 505(3), 4345—4361  
-    \[ [OUP](https://academic.oup.com/mnras/article-abstract/505/3/4345/6287587) | [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4345B) | [arXiv:2105.11169](https://arxiv.org/abs/2105.11169) \]
-    
-*   Makrygianni, L. et al. for the GOTO collaboration including Galloway, D. K. (2021). **Processing GOTO data with the Rubin Observatory LSST Science Pipelines II: Forced Photometry and light curves.** PASA 38, e025  
-    \[ [CUP](https://doi.org/10.1017/pasa.2021.19) | [ADS](https://ui.adsabs.harvard.edu/abs/2021PASA...38...25M) | [arXiv:2105.05128](https://arxiv.org/abs/2105.05128) \]
-    
-*   Killestein, T. et al. for the GOTO collaboration including Galloway, D. K. (2021). **Transient-optimized real-bogus classification with Bayesian convolutional neural networks - sifting the GOTO candidate stream.** MNRAS 503(4), 4838  
-    \[ [OUP](https://academic.oup.com/mnras/article-abstract/503/4/4838/6171008) | [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.4838K) | [arXiv:2102.09892](https://arxiv.org/abs/2102.09892) \]
-    
-*   Li, Z. S., Kuiper, L., Falanga, M., Poutanen, J., Tsygankov, S. S., Galloway, D. K., Bozzo, E., Pan, Y. Y., Huang, Y., Zhang, S. N., Zhang, S. (2021). **Broadband X-ray spectra and timing of the accreting millisecond pulsar Swift J1756.9-2508 during its 2018 and 2019 outbursts.** A&A 6749, #A76  
-    \[ [EDP](https://www.aanda.org/articles/aa/abs/2021/05/aa40360-21) | [ADS](https://ui.adsabs.harvard.edu/abs/2021A%26A...649A..76L) | [arXiv:2102.11687](https://arxiv.org/abs/2102.11687) \]
-    
-*   Duffy, C. et al. for the GOTO collaboration including Galloway, D. K. (2021). **Evidence that short period AM CVn systems are diverse in outburst behaviour.** MNRAS 502(4), 4953  
-    \[ [OUP](https://academic.oup.com/mnras/article-abstract/502/4/4953/6133468) | [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.4953D) | [arXiv:2102.04428](https://arxiv.org/abs/2102.04428) \]
-    
-*   Galloway, D. K., Keek, L. (2021) **Thermonuclear X-ray bursts.** "Timing Neutron Stars: Pulsations, Oscillations and Explosions", Editors: Tomaso Belloni, Mariano Méndez & Chengmin Zhang, ASSL, Vol. 461, pp209—262 (Springer)  
-    \[ [ADS](https://ui.adsabs.harvard.edu/abs/2021ASSL..461..209G) | [arXiv:1712.06227](https://arxiv.org/abs/1712.06227) \]
-    
-*   Tse, K-H, Galloway, D. K., Chou, Y., Heger, A., Hsieh, H-E (2021). **Detection of Millihertz Quasi-Periodic Oscillations in the X-Ray Binary 1RXS J180408.9—342058.** MNRAS 500, 34  
-    \[ [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500...34T) | [OUP](https://academic.oup.com/mnras/article-abstract/500/1/34/5928573) | [arXiv:2009.01536](https://arxiv.org/abs/2009.01536) \]
-    
-*   Mullaney, J. R., Makrygianni, L., Dhillon, V., Littlefair, S, for the GOTO collaboration including Galloway, D. K. (2021). **Processing GOTO data with the Rubin Observatory LSST Science Pipelines I: Production of coadded frames.** PASA 38, e004  
-    \[ [PASA](https://doi.org/10.1017/pasa.2020.45) | [ADS](https://ui.adsabs.harvard.edu/abs/2021PASA...38....4M) | [arXiv:2010.15142](https://arxiv.org/abs/2010.15142) \]
     
 [<< Home](http://outs1der.github.io)
 
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-9<sup>th</sup> August 2024</h5>
+29<sup>th</sup> January 2025</h5>
