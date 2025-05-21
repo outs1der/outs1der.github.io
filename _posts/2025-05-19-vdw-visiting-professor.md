@@ -5,7 +5,7 @@ layout: post
 time: 12:00
 ---
 <p>
-<img src="https://www.uva.nl/binaries/_ht_1736926253092/1360x0-webp/content/gallery/subsites/extranet/huisstijl/logo-tag.jpg" width="100" align="left">
+<img src="images/uva-logo-tag.jpg" width="100" align="left">
 I am honoured and grateful to take up the role of
 <a href="https://api.uva.nl/content/news/2025/05/duncan-galloway-appointed-as-van-der-waals-visiting-professor.html">van
 der Waals Visiting Professor</a> at the 
