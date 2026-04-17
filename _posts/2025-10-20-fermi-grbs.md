@@ -1,6 +1,6 @@
 ---
 title: "GOTO observations of GRB afterglows"
-category: outreach
+category: papers
 layout: post
 time: 12:00
 ---
