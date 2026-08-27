@@ -10,4 +10,4 @@ title: "Curriculum Vitæ - Duncan Galloway"
 <p><img src="images/separator.jpg" width="100%"></p>
 
 <h5>URL: http://outs1der.github.io/cv.html  <br>
-9<sup>th</sup> February 2026</h5>
+27<sup>th</sup> August 2026</h5>
