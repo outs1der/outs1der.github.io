@@ -19,4 +19,6 @@ latitudes); and significant "pollution" of the burst fuel by ashes dredged up in
 layer, possibly by convection. This pollution contribution is now on a firmer basis with
 support from <a href="https://docs.mesastar.org">MESA</a> simulations, and as a whole the model
 matches the burst observations and potentially allows us to deduce changes in the accretion
-disk geometry close to the star. The paper is under review by ApJL.</p>
+disk geometry close to the star. The paper has now been published 
+(<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...998...25C">ApJL
+998, #25</a>).</p>
