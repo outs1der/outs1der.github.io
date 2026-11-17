@@ -27,7 +27,7 @@ mostly matches the observations, we suspect the simple ignition model we
 use doesn't quite include sufficient physics to be very confident in the
 constraints. Even so, the analysis (and the related simulations) are an
 important proof-of-concept for the code.</p>
-<p>The paper has been submitted to 
+<p>The paper has now been accepted by  
 <a href="https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia">PASA</a> and is also available at
 <a href="https://arxiv.org/abs/2608.21196">arXiv:2608.21196</a>.
 </p>
